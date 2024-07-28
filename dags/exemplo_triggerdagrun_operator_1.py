@@ -1,8 +1,8 @@
 # Domine Apache Airflow. https://www.eia.ai/
-from airflow import DAG
-from airflow.operators.bash_operator import BashOperator
+from airflow import DAG # type: ignore
+from airflow.operators.bash_operator import BashOperator # type: ignore
 from datetime import datetime
-from airflow.operators.dagrun_operator import TriggerDagRunOperator
+from airflow.operators.dagrun_operator import TriggerDagRunOperator # type: ignore
 
 filename = __file__.split("/")[-1].replace(".py", "")
 
@@ -11,7 +11,8 @@ dag = DAG(
     description="Dag run dag",
     schedule_interval=None,
     start_date=datetime(2024, 7, 22),
-    catchup=False
+    catchup=False,
+    tags=['exemplos'],
 )
 
 task1 = BashOperator(task_id="tsk1", bash_command="sleep 5", dag=dag)

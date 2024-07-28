@@ -11,6 +11,7 @@ dag = DAG(
     schedule_interval=None,
     start_date=datetime(2024, 7, 26),
     catchup=False,
+    tags=['exemplos'],
 )
 
 

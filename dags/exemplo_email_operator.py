@@ -24,6 +24,7 @@ dag = DAG(
     start_date=datetime(2023, 3, 5),
     catchup=False,
     default_view="graph",
+    tags=['exemplos'],
 )
 
 task1 = BashOperator(task_id="1-Bash", bash_command="sleep 1", dag=dag)

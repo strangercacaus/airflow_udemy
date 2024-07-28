@@ -14,6 +14,7 @@ dag = DAG(
     schedule=[dataset],
     start_date=datetime(2024, 7, 26),
     catchup=False,
+    tags=['exemplos'],
 )
 
 def duplicate_file():
