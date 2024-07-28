@@ -1,0 +1,33 @@
+[2024-07-27T03:09:07.948+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: exemplo_branch.branch manual__2024-07-27T03:09:05.690462+00:00 [queued]>
+[2024-07-27T03:09:07.959+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: exemplo_branch.branch manual__2024-07-27T03:09:05.690462+00:00 [queued]>
+[2024-07-27T03:09:07.960+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-27T03:09:07.960+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 1
+[2024-07-27T03:09:07.960+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-27T03:09:07.975+0000] {taskinstance.py:1300} INFO - Executing <Task(BranchPythonOperator): branch> on 2024-07-27 03:09:05.690462+00:00
+[2024-07-27T03:09:07.987+0000] {standard_task_runner.py:55} INFO - Started process 80079 to run task
+[2024-07-27T03:09:07.994+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'exemplo_branch', 'branch', 'manual__2024-07-27T03:09:05.690462+00:00', '--job-id', '1758', '--raw', '--subdir', 'DAGS_FOLDER/__pycache__/exemplo_branch.py', '--cfg-path', '/tmp/tmp2p3gvuob']
+[2024-07-27T03:09:07.995+0000] {standard_task_runner.py:83} INFO - Job 1758: Subtask branch
+[2024-07-27T03:09:08.107+0000] {task_command.py:388} INFO - Running <TaskInstance: exemplo_branch.branch manual__2024-07-27T03:09:05.690462+00:00 [running]> on host 029011c5aea1
+[2024-07-27T03:09:08.198+0000] {taskinstance.py:1509} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=exemplo_branch
+AIRFLOW_CTX_TASK_ID=branch
+AIRFLOW_CTX_EXECUTION_DATE=2024-07-27T03:09:05.690462+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2024-07-27T03:09:05.690462+00:00
+[2024-07-27T03:09:08.212+0000] {python.py:177} INFO - Done. Returned value was: odd_task
+[2024-07-27T03:09:08.214+0000] {python.py:211} INFO - Branch callable return odd_task
+[2024-07-27T03:09:08.214+0000] {skipmixin.py:155} INFO - Following branch odd_task
+[2024-07-27T03:09:08.223+0000] {taskinstance.py:1768} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 212, in execute
+    self.skip_all_except(context["ti"], branch)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/skipmixin.py", line 186, in skip_all_except
+    "'branch_task_ids' must contain only valid task_ids. "
+airflow.exceptions.AirflowException: 'branch_task_ids' must contain only valid task_ids. Invalid tasks found: {'odd_task'}.
+[2024-07-27T03:09:08.231+0000] {taskinstance.py:1323} INFO - Marking task as FAILED. dag_id=exemplo_branch, task_id=branch, execution_date=20240727T030905, start_date=20240727T030907, end_date=20240727T030908
+[2024-07-27T03:09:08.243+0000] {standard_task_runner.py:105} ERROR - Failed to execute job 1758 for task branch ('branch_task_ids' must contain only valid task_ids. Invalid tasks found: {'odd_task'}.; 80079)
+[2024-07-27T03:09:08.256+0000] {local_task_job.py:208} INFO - Task exited with return code 1
+[2024-07-27T03:09:08.370+0000] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check

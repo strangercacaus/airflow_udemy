@@ -1,0 +1,14 @@
+[2024-07-22T02:32:01.879+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: example_short_circuit_operator.short_circuit scheduled__2024-07-21T02:31:40.761213+00:00 [queued]>
+[2024-07-22T02:32:01.901+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: example_short_circuit_operator.short_circuit scheduled__2024-07-21T02:31:40.761213+00:00 [queued]>
+[2024-07-22T02:32:01.907+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-22T02:32:01.912+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 1
+[2024-07-22T02:32:01.921+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-22T02:32:02.017+0000] {taskinstance.py:1300} INFO - Executing <Task(ShortCircuitOperator): short_circuit> on 2024-07-21 02:31:40.761213+00:00
+[2024-07-22T02:32:02.055+0000] {standard_task_runner.py:55} INFO - Started process 1174 to run task
+[2024-07-22T02:32:02.069+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'example_short_circuit_operator', 'short_circuit', 'scheduled__2024-07-21T02:31:40.761213+00:00', '--job-id', '322', '--raw', '--subdir', '/home/***/.local/lib/python3.7/site-packages/***/example_dags/example_short_circuit_operator.py', '--cfg-path', '/tmp/tmpbee24sad']
+[2024-07-22T02:32:02.095+0000] {standard_task_runner.py:83} INFO - Job 322: Subtask short_circuit
+[2024-07-22T02:32:02.530+0000] {standard_task_runner.py:105} ERROR - Failed to execute job 322 for task short_circuit ([Errno 2] No such file or directory: '/opt/airflow/logs/dag_id=example_short_circuit_operator/run_id=scheduled__2024-07-21T02:31:40.761213+00:00/task_id=short_circuit/attempt=1.log'; 1174)
+[2024-07-22T02:32:02.595+0000] {local_task_job.py:208} INFO - Task exited with return code 1
+[2024-07-22T02:32:02.683+0000] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check

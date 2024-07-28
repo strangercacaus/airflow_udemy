@@ -1,0 +1,48 @@
+[2024-07-27T04:01:22.279+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: exemplo_python_operator.clean_data manual__2024-07-27T04:01:20.761165+00:00 [queued]>
+[2024-07-27T04:01:22.310+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: exemplo_python_operator.clean_data manual__2024-07-27T04:01:20.761165+00:00 [queued]>
+[2024-07-27T04:01:22.310+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-27T04:01:22.310+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 1
+[2024-07-27T04:01:22.311+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-27T04:01:22.321+0000] {taskinstance.py:1300} INFO - Executing <Task(PythonOperator): clean_data> on 2024-07-27 04:01:20.761165+00:00
+[2024-07-27T04:01:22.325+0000] {standard_task_runner.py:55} INFO - Started process 1483 to run task
+[2024-07-27T04:01:22.327+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'exemplo_python_operator', 'clean_data', 'manual__2024-07-27T04:01:20.761165+00:00', '--job-id', '1775', '--raw', '--subdir', 'DAGS_FOLDER/exemplo_python_operator.py', '--cfg-path', '/tmp/tmpt1dfpf2w']
+[2024-07-27T04:01:22.329+0000] {standard_task_runner.py:83} INFO - Job 1775: Subtask clean_data
+[2024-07-27T04:01:22.366+0000] {task_command.py:388} INFO - Running <TaskInstance: exemplo_python_operator.clean_data manual__2024-07-27T04:01:20.761165+00:00 [running]> on host da9965439bd8
+[2024-07-27T04:01:22.410+0000] {taskinstance.py:1509} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=exemplo_python_operator
+AIRFLOW_CTX_TASK_ID=clean_data
+AIRFLOW_CTX_EXECUTION_DATE=2024-07-27T04:01:20.761165+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2024-07-27T04:01:20.761165+00:00
+[2024-07-27T04:01:22.412+0000] {taskinstance.py:1768} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 175, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 192, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/exemplo_python_operator.py", line 20, in clean_data
+    dataset = pd.read_csv("opt/airflow/data/Churn.csv", sep=";")
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/util/_decorators.py", line 311, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/parsers/readers.py", line 586, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/parsers/readers.py", line 482, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/parsers/readers.py", line 811, in __init__
+    self._engine = self._make_engine(self.engine)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/parsers/readers.py", line 1040, in _make_engine
+    return mapping[engine](self.f, **self.options)  # type: ignore[call-arg]
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/parsers/c_parser_wrapper.py", line 51, in __init__
+    self._open_handles(src, kwds)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/parsers/base_parser.py", line 229, in _open_handles
+    errors=kwds.get("encoding_errors", "strict"),
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/common.py", line 707, in get_handle
+    newline="",
+FileNotFoundError: [Errno 2] No such file or directory: 'opt/airflow/data/Churn.csv'
+[2024-07-27T04:01:22.418+0000] {taskinstance.py:1323} INFO - Marking task as FAILED. dag_id=exemplo_python_operator, task_id=clean_data, execution_date=20240727T040120, start_date=20240727T040122, end_date=20240727T040122
+[2024-07-27T04:01:22.427+0000] {standard_task_runner.py:105} ERROR - Failed to execute job 1775 for task clean_data ([Errno 2] No such file or directory: 'opt/airflow/data/Churn.csv'; 1483)
+[2024-07-27T04:01:22.469+0000] {local_task_job.py:208} INFO - Task exited with return code 1
+[2024-07-27T04:01:22.481+0000] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check

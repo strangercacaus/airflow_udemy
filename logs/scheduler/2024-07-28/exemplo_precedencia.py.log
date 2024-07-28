@@ -1,0 +1,672 @@
+[2024-07-28T02:33:07.723+0000] {processor.py:153} INFO - Started process (PID=59) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:33:07.724+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:33:07.725+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:07.725+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:33:07.736+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:33:07.771+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:07.771+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:33:07.792+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:07.792+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:33:07.827+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.107 seconds
+[2024-07-28T02:33:13.240+0000] {processor.py:153} INFO - Started process (PID=100) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:33:13.240+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:33:13.241+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:13.241+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:33:13.249+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:33:13.263+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:13.263+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:33:13.277+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:13.277+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:33:13.287+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.049 seconds
+[2024-07-28T02:33:18.458+0000] {processor.py:153} INFO - Started process (PID=129) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:33:18.459+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:33:18.459+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:18.459+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:33:18.467+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:33:18.479+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:18.479+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:33:18.491+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:18.491+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:33:18.499+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.043 seconds
+[2024-07-28T02:33:46.397+0000] {processor.py:153} INFO - Started process (PID=63) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:33:46.400+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:33:46.401+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:46.401+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:33:46.416+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:33:46.475+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:46.475+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:33:46.495+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:46.495+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:33:46.514+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.121 seconds
+[2024-07-28T02:33:51.575+0000] {processor.py:153} INFO - Started process (PID=97) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:33:51.576+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:33:51.577+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:51.577+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:33:51.586+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:33:51.595+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:51.595+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:33:51.610+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:51.610+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:33:51.624+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.050 seconds
+[2024-07-28T02:33:57.653+0000] {processor.py:153} INFO - Started process (PID=129) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:33:57.654+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:33:57.660+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:57.660+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:33:57.738+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:33:57.792+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:57.792+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:33:57.833+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:57.833+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:33:57.869+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.218 seconds
+[2024-07-28T02:34:03.111+0000] {processor.py:153} INFO - Started process (PID=163) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:34:03.112+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:34:03.119+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:03.119+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:34:03.134+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:34:03.147+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:03.147+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:34:03.165+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:03.165+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:34:03.175+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.066 seconds
+[2024-07-28T02:34:09.125+0000] {processor.py:153} INFO - Started process (PID=195) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:34:09.125+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:34:09.126+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:09.126+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:34:09.134+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:34:09.145+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:09.145+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:34:09.159+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:09.159+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:34:09.178+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.055 seconds
+[2024-07-28T02:34:15.337+0000] {processor.py:153} INFO - Started process (PID=236) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:34:15.339+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:34:15.341+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:15.341+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:34:15.360+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:34:15.378+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:15.378+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:34:15.398+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:15.398+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:34:15.409+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.075 seconds
+[2024-07-28T02:34:21.360+0000] {processor.py:153} INFO - Started process (PID=261) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:34:21.361+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:34:21.361+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:21.361+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:34:21.374+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:34:21.389+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:21.389+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:34:21.407+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:21.407+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:34:21.428+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.070 seconds
+[2024-07-28T02:34:26.846+0000] {processor.py:153} INFO - Started process (PID=302) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:34:26.849+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:34:26.853+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:26.853+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:34:26.874+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:34:26.895+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:26.895+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:34:26.911+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:26.911+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:34:26.928+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.085 seconds
+[2024-07-28T02:34:32.139+0000] {processor.py:153} INFO - Started process (PID=327) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:34:32.139+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:34:32.140+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:32.140+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:34:32.149+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:34:32.170+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:32.170+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:34:32.184+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:32.184+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:34:32.199+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.063 seconds
+[2024-07-28T02:34:38.146+0000] {processor.py:153} INFO - Started process (PID=367) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:34:38.147+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:34:38.149+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:38.149+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:34:38.162+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:34:38.181+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:38.181+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:34:38.200+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:38.199+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:34:38.214+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.071 seconds
+[2024-07-28T02:34:44.174+0000] {processor.py:153} INFO - Started process (PID=392) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:34:44.175+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:34:44.177+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:44.177+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:34:44.187+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:34:44.209+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:44.209+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:34:44.223+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:44.223+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:34:44.231+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.059 seconds
+[2024-07-28T02:34:49.527+0000] {processor.py:153} INFO - Started process (PID=433) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:34:49.527+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:34:49.528+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:49.528+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:34:49.538+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:34:49.557+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:49.557+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:34:49.571+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:49.571+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:34:49.582+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.058 seconds
+[2024-07-28T02:34:54.929+0000] {processor.py:153} INFO - Started process (PID=458) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:34:54.929+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:34:54.929+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:54.929+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:34:54.937+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:34:54.950+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:54.950+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:34:54.964+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:54.964+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:34:54.972+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.046 seconds
+[2024-07-28T02:35:01.311+0000] {processor.py:153} INFO - Started process (PID=499) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:35:01.311+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:35:01.312+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:01.312+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:35:01.320+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:35:01.334+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:01.334+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:35:01.348+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:01.348+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:35:01.368+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.059 seconds
+[2024-07-28T02:35:06.558+0000] {processor.py:153} INFO - Started process (PID=524) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:35:06.559+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:35:06.560+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:06.559+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:35:06.569+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:35:06.586+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:06.586+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:35:06.600+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:06.600+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:35:06.611+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.055 seconds
+[2024-07-28T02:35:12.844+0000] {processor.py:153} INFO - Started process (PID=565) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:35:12.845+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:35:12.846+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:12.846+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:35:12.857+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:35:12.875+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:12.875+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:35:12.889+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:12.889+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:35:12.901+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.060 seconds
+[2024-07-28T02:35:18.818+0000] {processor.py:153} INFO - Started process (PID=590) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:35:18.819+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:35:18.821+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:18.821+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:35:18.832+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:35:18.852+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:18.852+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:35:18.871+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:18.871+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:35:18.881+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.065 seconds
+[2024-07-28T02:35:24.873+0000] {processor.py:153} INFO - Started process (PID=631) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:35:24.874+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:35:24.874+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:24.874+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:35:24.883+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:35:24.900+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:24.900+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:35:24.917+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:24.917+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:35:24.927+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.056 seconds
+[2024-07-28T02:35:30.993+0000] {processor.py:153} INFO - Started process (PID=656) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:35:30.995+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:35:30.995+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:30.995+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:35:31.003+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:35:31.022+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:31.022+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:35:31.035+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:31.035+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:35:31.047+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.055 seconds
+[2024-07-28T02:35:37.084+0000] {processor.py:153} INFO - Started process (PID=697) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:35:37.084+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:35:37.085+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:37.085+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:35:37.093+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:35:37.109+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:37.109+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:35:37.126+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:37.126+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:35:37.139+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.057 seconds
+[2024-07-28T02:35:43.072+0000] {processor.py:153} INFO - Started process (PID=722) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:35:43.073+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:35:43.074+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:43.074+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:35:43.085+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:35:43.110+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:43.110+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:35:43.129+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:43.129+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:35:43.141+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.071 seconds
+[2024-07-28T02:35:49.112+0000] {processor.py:153} INFO - Started process (PID=763) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:35:49.114+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:35:49.115+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:49.115+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:35:49.127+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:35:49.146+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:49.143+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:35:49.159+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:49.159+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:35:49.178+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.068 seconds
+[2024-07-28T02:35:55.267+0000] {processor.py:153} INFO - Started process (PID=788) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:35:55.269+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:35:55.270+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:55.270+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:35:55.279+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:35:55.300+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:55.300+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:35:55.321+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:55.320+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:35:55.334+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.069 seconds
+[2024-07-28T02:36:01.306+0000] {processor.py:153} INFO - Started process (PID=829) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:36:01.307+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:36:01.308+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:01.308+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:36:01.315+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:36:01.330+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:01.330+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:36:01.343+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:01.343+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:36:01.359+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.054 seconds
+[2024-07-28T02:36:07.374+0000] {processor.py:153} INFO - Started process (PID=854) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:36:07.375+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:36:07.375+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:07.375+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:36:07.386+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:36:07.403+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:07.403+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:36:07.417+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:07.417+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:36:07.433+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.061 seconds
+[2024-07-28T02:36:13.420+0000] {processor.py:153} INFO - Started process (PID=895) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:36:13.420+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:36:13.421+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:13.421+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:36:13.432+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:36:13.450+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:13.450+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:36:13.467+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:13.467+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:36:13.481+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.063 seconds
+[2024-07-28T02:36:19.524+0000] {processor.py:153} INFO - Started process (PID=936) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:36:19.525+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:36:19.525+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:19.525+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:36:19.537+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:36:19.551+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:19.551+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:36:19.562+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:19.562+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:36:19.572+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.050 seconds
+[2024-07-28T02:36:25.602+0000] {processor.py:153} INFO - Started process (PID=961) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:36:25.604+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:36:25.604+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:25.604+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:36:25.613+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:36:25.630+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:25.630+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:36:25.645+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:25.645+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:36:25.662+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.062 seconds
+[2024-07-28T02:36:31.704+0000] {processor.py:153} INFO - Started process (PID=1002) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:36:31.707+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:36:31.707+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:31.707+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:36:31.715+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:36:31.730+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:31.730+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:36:31.744+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:31.744+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:36:31.759+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.057 seconds
+[2024-07-28T02:36:37.741+0000] {processor.py:153} INFO - Started process (PID=1027) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:36:37.743+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:36:37.743+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:37.743+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:36:37.752+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:36:37.767+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:37.767+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:36:37.784+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:37.783+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:36:37.800+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.061 seconds
+[2024-07-28T02:36:43.822+0000] {processor.py:153} INFO - Started process (PID=1068) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:36:43.823+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:36:43.823+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:43.823+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:36:43.832+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:36:43.848+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:43.848+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:36:43.861+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:43.861+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:36:43.874+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.054 seconds
+[2024-07-28T02:36:49.904+0000] {processor.py:153} INFO - Started process (PID=1093) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:36:49.905+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:36:49.906+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:49.906+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:36:49.916+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:36:49.930+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:49.930+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:36:49.946+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:49.946+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:36:49.956+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.053 seconds
+[2024-07-28T02:36:55.926+0000] {processor.py:153} INFO - Started process (PID=1134) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:36:55.927+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:36:55.927+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:55.927+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:36:55.936+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:36:55.948+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:55.948+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:36:55.961+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:55.961+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:36:55.971+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.047 seconds
+[2024-07-28T02:37:02.036+0000] {processor.py:153} INFO - Started process (PID=1159) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:37:02.038+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:37:02.040+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:02.039+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:37:02.052+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:37:02.072+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:02.071+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:37:02.088+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:02.088+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:37:02.111+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.080 seconds
+[2024-07-28T02:37:08.291+0000] {processor.py:153} INFO - Started process (PID=1200) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:37:08.291+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:37:08.292+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:08.292+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:37:08.301+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:37:08.319+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:08.319+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:37:08.331+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:08.331+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:37:08.346+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.058 seconds
+[2024-07-28T02:37:13.396+0000] {processor.py:153} INFO - Started process (PID=1225) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:37:13.397+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:37:13.397+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:13.397+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:37:13.408+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:37:13.425+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:13.425+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:37:13.441+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:13.441+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:37:13.456+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.061 seconds
+[2024-07-28T02:37:19.328+0000] {processor.py:153} INFO - Started process (PID=1266) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:37:19.329+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:37:19.329+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:19.329+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:37:19.337+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:37:19.353+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:19.353+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:37:19.371+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:19.371+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:37:19.383+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.056 seconds
+[2024-07-28T02:37:25.265+0000] {processor.py:153} INFO - Started process (PID=1291) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:37:25.266+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:37:25.266+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:25.266+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:37:25.274+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:37:25.286+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:25.286+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:37:25.299+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:25.299+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:37:25.311+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.048 seconds
+[2024-07-28T02:37:31.327+0000] {processor.py:153} INFO - Started process (PID=1332) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:37:31.328+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:37:31.328+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:31.328+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:37:31.335+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:37:31.348+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:31.348+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:37:31.359+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:31.359+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:37:31.367+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.042 seconds
+[2024-07-28T02:37:37.287+0000] {processor.py:153} INFO - Started process (PID=1357) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:37:37.288+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:37:37.289+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:37.289+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:37:37.303+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:37:37.319+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:37.319+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:37:37.332+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:37.332+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:37:37.345+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.060 seconds
+[2024-07-28T02:37:43.268+0000] {processor.py:153} INFO - Started process (PID=1398) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:37:43.269+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:37:43.269+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:43.269+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:37:43.278+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:37:43.291+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:43.291+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:37:43.304+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:43.304+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:37:43.319+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.052 seconds
+[2024-07-28T02:37:49.282+0000] {processor.py:153} INFO - Started process (PID=1439) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:37:49.282+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:37:49.283+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:49.283+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:37:49.291+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:37:49.304+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:49.303+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:37:49.316+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:49.316+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:37:49.325+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.045 seconds
+[2024-07-28T02:37:55.170+0000] {processor.py:153} INFO - Started process (PID=1464) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:37:55.172+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:37:55.173+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:55.173+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:37:55.181+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:37:55.194+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:55.194+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:37:55.208+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:55.208+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:37:55.223+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.056 seconds
+[2024-07-28T02:38:01.662+0000] {processor.py:153} INFO - Started process (PID=1505) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:38:01.662+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:38:01.664+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:01.664+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:38:01.675+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:38:01.691+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:01.691+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:01.705+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:01.705+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:38:01.723+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.064 seconds
+[2024-07-28T02:38:06.762+0000] {processor.py:153} INFO - Started process (PID=1530) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:38:06.763+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:38:06.763+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:06.763+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:38:06.771+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:38:06.783+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:06.783+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:06.795+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:06.795+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:38:06.803+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.043 seconds
+[2024-07-28T02:38:12.852+0000] {processor.py:153} INFO - Started process (PID=1571) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:38:12.853+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:38:12.855+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:12.855+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:38:12.863+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:38:12.878+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:12.878+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:12.892+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:12.892+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:38:12.906+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.055 seconds
+[2024-07-28T02:38:18.882+0000] {processor.py:153} INFO - Started process (PID=1596) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:38:18.884+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:38:18.885+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:18.885+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:38:18.896+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:38:18.909+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:18.909+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:18.924+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:18.924+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:38:18.938+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.058 seconds
+[2024-07-28T02:38:24.838+0000] {processor.py:153} INFO - Started process (PID=1637) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:38:24.839+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:38:24.839+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:24.839+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:38:24.847+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:38:24.862+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:24.862+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:24.875+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:24.875+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:38:24.887+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.051 seconds
+[2024-07-28T02:38:30.977+0000] {processor.py:153} INFO - Started process (PID=1662) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:38:30.978+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:38:30.978+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:30.978+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:38:30.987+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:38:31.002+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:31.001+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:31.014+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:31.014+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:38:31.027+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.052 seconds
+[2024-07-28T02:38:36.999+0000] {processor.py:153} INFO - Started process (PID=1703) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:38:36.999+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:38:37.001+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:37.001+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:38:37.014+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:38:37.031+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:37.031+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:37.048+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:37.048+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:38:37.061+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.064 seconds
+[2024-07-28T02:38:43.254+0000] {processor.py:153} INFO - Started process (PID=1728) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:38:43.254+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:38:43.255+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:43.255+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:38:43.263+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:38:43.277+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:43.276+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:43.290+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:43.290+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:38:43.300+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.047 seconds
+[2024-07-28T02:38:48.362+0000] {processor.py:153} INFO - Started process (PID=1769) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:38:48.362+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:38:48.363+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:48.363+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:38:48.371+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:38:48.383+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:48.383+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:48.396+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:48.396+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:38:48.405+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.045 seconds
+[2024-07-28T02:38:54.329+0000] {processor.py:153} INFO - Started process (PID=1794) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:38:54.330+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:38:54.330+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:54.330+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:38:54.339+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:38:54.355+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:54.355+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:54.367+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:54.367+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:38:54.381+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.054 seconds
+[2024-07-28T02:39:00.279+0000] {processor.py:153} INFO - Started process (PID=1835) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:39:00.280+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:39:00.280+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:00.280+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:39:00.289+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:39:00.308+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:00.308+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:39:00.325+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:00.324+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:39:00.337+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.059 seconds
+[2024-07-28T02:39:06.389+0000] {processor.py:153} INFO - Started process (PID=1860) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:39:06.391+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:39:06.392+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:06.392+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:39:06.402+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:39:06.417+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:06.417+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:39:06.433+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:06.433+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:39:06.445+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.058 seconds
+[2024-07-28T02:39:12.447+0000] {processor.py:153} INFO - Started process (PID=1901) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:39:12.448+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:39:12.450+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:12.450+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:39:12.459+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:39:12.478+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:12.477+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:39:12.491+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:12.491+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:39:12.500+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.056 seconds
+[2024-07-28T02:39:18.466+0000] {processor.py:153} INFO - Started process (PID=1926) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:39:18.467+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:39:18.468+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:18.468+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:39:18.478+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:39:18.491+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:18.491+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:39:18.503+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:18.503+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:39:18.513+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.050 seconds
+[2024-07-28T02:39:24.464+0000] {processor.py:153} INFO - Started process (PID=1967) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:39:24.464+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:39:24.465+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:24.465+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:39:24.474+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:39:24.486+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:24.486+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:39:24.497+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:24.497+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:39:24.507+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.045 seconds
+[2024-07-28T02:39:30.488+0000] {processor.py:153} INFO - Started process (PID=1999) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:39:30.489+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:39:30.489+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:30.489+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:39:30.498+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:39:30.513+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:30.513+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:39:30.528+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:30.528+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:39:30.544+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.058 seconds
+[2024-07-28T02:39:36.498+0000] {processor.py:153} INFO - Started process (PID=2033) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:39:36.500+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:39:36.500+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:36.500+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:39:36.508+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:39:36.522+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:36.522+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:39:36.534+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:36.534+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:39:36.547+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.051 seconds
+[2024-07-28T02:39:42.597+0000] {processor.py:153} INFO - Started process (PID=2074) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:39:42.599+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:39:42.600+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:42.600+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:39:42.616+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:39:42.631+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:42.631+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:39:42.649+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:42.649+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:39:42.664+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.069 seconds
+[2024-07-28T02:39:48.680+0000] {processor.py:153} INFO - Started process (PID=2099) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:39:48.681+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:39:48.682+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:48.682+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:39:48.690+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:39:48.706+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:48.706+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:39:48.720+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:48.719+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:39:48.736+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.058 seconds
+[2024-07-28T02:39:54.990+0000] {processor.py:153} INFO - Started process (PID=2140) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:39:54.990+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:39:54.991+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:54.991+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:39:54.999+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:39:55.013+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:55.013+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:39:55.026+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:55.026+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:39:55.035+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.047 seconds
+[2024-07-28T02:40:00.961+0000] {processor.py:153} INFO - Started process (PID=2165) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:40:00.962+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:40:00.962+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:00.962+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:40:00.970+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:40:00.986+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:00.986+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:40:01.002+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:01.001+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:40:01.019+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.060 seconds
+[2024-07-28T02:40:07.278+0000] {processor.py:153} INFO - Started process (PID=2205) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:40:07.279+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:40:07.280+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:07.280+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:40:07.289+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:40:07.304+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:07.304+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:40:07.319+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:07.319+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:40:07.339+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.063 seconds
+[2024-07-28T02:40:13.391+0000] {processor.py:153} INFO - Started process (PID=2230) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:40:13.392+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:40:13.393+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:13.393+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:40:13.401+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:40:13.418+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:13.418+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:40:13.434+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:13.434+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:40:13.446+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.057 seconds
+[2024-07-28T02:40:19.510+0000] {processor.py:153} INFO - Started process (PID=2271) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:40:19.511+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:40:19.511+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:19.511+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:40:19.519+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:40:19.540+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:19.540+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:40:19.555+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:19.555+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:40:19.565+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.057 seconds
+[2024-07-28T02:40:25.577+0000] {processor.py:153} INFO - Started process (PID=2296) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:40:25.578+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:40:25.578+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:25.578+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:40:25.590+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:40:25.603+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:25.603+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:40:25.617+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:25.617+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:40:25.630+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.056 seconds
+[2024-07-28T02:40:31.634+0000] {processor.py:153} INFO - Started process (PID=2337) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:40:31.635+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:40:31.637+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:31.637+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:40:31.648+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:40:31.661+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:31.661+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:40:31.676+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:31.675+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:40:31.691+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.059 seconds
+[2024-07-28T02:40:37.741+0000] {processor.py:153} INFO - Started process (PID=2362) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:40:37.742+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:40:37.744+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:37.744+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:40:37.754+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:40:37.772+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:37.772+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:40:37.785+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:37.785+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:40:37.797+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.058 seconds
+[2024-07-28T02:40:43.826+0000] {processor.py:153} INFO - Started process (PID=2402) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:40:43.827+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:40:43.828+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:43.828+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:40:43.836+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:40:43.853+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:43.853+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:40:43.871+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:43.871+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:40:43.885+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.061 seconds
+[2024-07-28T02:40:49.888+0000] {processor.py:153} INFO - Started process (PID=2436) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:40:49.889+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:40:49.889+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:49.889+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:40:49.900+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:40:49.914+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:49.914+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:40:49.928+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:49.928+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:40:49.941+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.055 seconds
+[2024-07-28T02:40:55.951+0000] {processor.py:153} INFO - Started process (PID=2468) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:40:55.951+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:40:55.952+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:55.952+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:40:55.960+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:40:55.976+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:55.976+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:40:55.989+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:55.989+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:40:56.000+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.051 seconds
+[2024-07-28T02:41:02.168+0000] {processor.py:153} INFO - Started process (PID=2509) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:41:02.169+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:41:02.170+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:02.170+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:41:02.180+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:41:02.196+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:02.196+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:41:02.213+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:02.213+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:41:02.229+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.063 seconds
+[2024-07-28T02:41:07.301+0000] {processor.py:153} INFO - Started process (PID=2534) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:41:07.303+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:41:07.305+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:07.305+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:41:07.313+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:41:07.330+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:07.330+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:41:07.346+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:07.346+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:41:07.357+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.057 seconds
+[2024-07-28T02:41:12.475+0000] {processor.py:153} INFO - Started process (PID=2566) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:41:12.476+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:41:12.476+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:12.476+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:41:12.485+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:41:12.504+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:12.504+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:41:12.521+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:12.521+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:41:12.544+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.071 seconds
+[2024-07-28T02:41:18.462+0000] {processor.py:153} INFO - Started process (PID=2600) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:41:18.462+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:41:18.463+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:18.463+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:41:18.479+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:41:18.498+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:18.498+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:41:18.513+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:18.513+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:41:18.524+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.064 seconds
+[2024-07-28T02:41:24.545+0000] {processor.py:153} INFO - Started process (PID=2641) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:41:24.546+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:41:24.547+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:24.547+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:41:24.557+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:41:24.576+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:24.576+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:41:24.592+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:24.592+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:41:24.607+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.064 seconds
+[2024-07-28T02:41:30.650+0000] {processor.py:153} INFO - Started process (PID=2666) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:41:30.651+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:41:30.651+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:30.651+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:41:30.663+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:41:30.681+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:30.680+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:41:30.695+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:30.695+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:41:30.706+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.058 seconds
+[2024-07-28T02:41:36.822+0000] {processor.py:153} INFO - Started process (PID=2707) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:41:36.822+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:41:36.823+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:36.823+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:41:36.831+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:41:36.844+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:36.844+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:41:36.856+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:36.856+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:41:36.864+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.045 seconds
+[2024-07-28T02:41:42.832+0000] {processor.py:153} INFO - Started process (PID=2732) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:41:42.832+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:41:42.833+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:42.833+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:41:42.841+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:41:42.855+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:42.855+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:41:42.867+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:42.867+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:41:42.875+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.045 seconds
+[2024-07-28T02:41:48.813+0000] {processor.py:153} INFO - Started process (PID=2773) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:41:48.815+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:41:48.816+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:48.816+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:41:48.825+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:41:48.841+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:48.841+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:41:48.856+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:48.856+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:41:48.870+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.059 seconds
+[2024-07-28T02:41:54.841+0000] {processor.py:153} INFO - Started process (PID=2798) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:41:54.843+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:41:54.843+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:54.843+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:41:54.851+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:41:54.865+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:54.865+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:41:54.877+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:54.877+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:41:54.890+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.052 seconds
+[2024-07-28T02:42:00.931+0000] {processor.py:153} INFO - Started process (PID=2839) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:42:00.932+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:42:00.933+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:00.933+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:42:00.948+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:42:00.962+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:00.962+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:42:00.978+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:00.978+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:42:00.993+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.064 seconds
+[2024-07-28T02:42:07.027+0000] {processor.py:153} INFO - Started process (PID=2864) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:42:07.028+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:42:07.029+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:07.029+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:42:07.039+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:42:07.057+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:07.057+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:42:07.070+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:07.069+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:42:07.083+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.059 seconds
+[2024-07-28T02:42:13.116+0000] {processor.py:153} INFO - Started process (PID=2904) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:42:13.116+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:42:13.117+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:13.117+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:42:13.125+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:42:13.139+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:13.139+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:42:13.152+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:13.152+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:42:13.160+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.047 seconds
+[2024-07-28T02:42:19.043+0000] {processor.py:153} INFO - Started process (PID=2929) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:42:19.045+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:42:19.045+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:19.045+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:42:19.054+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:42:19.070+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:19.070+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:42:19.083+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:19.083+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:42:19.100+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.059 seconds
+[2024-07-28T02:42:25.009+0000] {processor.py:153} INFO - Started process (PID=2970) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:42:25.010+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:42:25.011+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:25.011+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:42:25.024+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:42:25.038+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:25.038+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:42:25.052+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:25.052+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:42:25.064+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.057 seconds
+[2024-07-28T02:42:31.016+0000] {processor.py:153} INFO - Started process (PID=2995) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:42:31.016+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:42:31.017+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:31.017+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:42:31.026+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:42:31.041+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:31.041+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:42:31.054+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:31.054+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:42:31.065+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.051 seconds
+[2024-07-28T02:42:37.048+0000] {processor.py:153} INFO - Started process (PID=3035) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:42:37.048+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:42:37.049+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:37.049+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:42:37.058+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:42:37.073+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:37.073+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:42:37.089+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:37.089+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:42:37.106+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.060 seconds
+[2024-07-28T02:42:42.996+0000] {processor.py:153} INFO - Started process (PID=3069) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:42:43.007+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:42:43.008+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:43.008+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:42:43.039+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:42:43.075+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:43.075+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:42:43.094+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:43.094+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:42:43.106+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.115 seconds
+[2024-07-28T02:42:49.070+0000] {processor.py:153} INFO - Started process (PID=3101) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:42:49.070+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:42:49.072+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:49.072+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:42:49.081+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:42:49.095+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:49.094+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:42:49.107+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:49.107+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:42:49.118+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.050 seconds
+[2024-07-28T02:42:55.337+0000] {processor.py:153} INFO - Started process (PID=3142) to work on /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:42:55.338+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_precedencia.py for tasks to queue
+[2024-07-28T02:42:55.338+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:55.338+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:42:55.347+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_precedencia']) retrieved from /opt/airflow/dags/exemplo_precedencia.py
+[2024-07-28T02:42:55.366+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:55.366+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:42:55.395+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:55.395+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_precedencia to None, run_after=None
+[2024-07-28T02:42:55.410+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_precedencia.py took 0.076 seconds

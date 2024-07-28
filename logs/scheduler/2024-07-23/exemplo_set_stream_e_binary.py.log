@@ -1,0 +1,49 @@
+[2024-07-23T03:08:33.532+0000] {processor.py:153} INFO - Started process (PID=8232) to work on /opt/airflow/dags/exemplo_set_stream_e_binary.py
+[2024-07-23T03:08:33.533+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_set_stream_e_binary.py for tasks to queue
+[2024-07-23T03:08:33.533+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:33.533+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_set_stream_e_binary.py
+[2024-07-23T03:08:33.549+0000] {processor.py:753} INFO - DAG(s) dict_keys(['downstream_dag']) retrieved from /opt/airflow/dags/exemplo_set_stream_e_binary.py
+[2024-07-23T03:08:33.586+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:33.586+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:08:33.599+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:33.599+0000] {dag.py:3441} INFO - Setting next_dagrun for downstream_dag to None, run_after=None
+[2024-07-23T03:08:33.609+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_set_stream_e_binary.py took 0.081 seconds
+[2024-07-23T03:08:38.827+0000] {processor.py:153} INFO - Started process (PID=8255) to work on /opt/airflow/dags/exemplo_set_stream_e_binary.py
+[2024-07-23T03:08:38.828+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_set_stream_e_binary.py for tasks to queue
+[2024-07-23T03:08:38.828+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:38.828+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_set_stream_e_binary.py
+[2024-07-23T03:08:38.837+0000] {processor.py:753} INFO - DAG(s) dict_keys(['downstream_dag']) retrieved from /opt/airflow/dags/exemplo_set_stream_e_binary.py
+[2024-07-23T03:08:38.846+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:38.846+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:08:38.859+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:38.859+0000] {dag.py:3441} INFO - Setting next_dagrun for downstream_dag to None, run_after=None
+[2024-07-23T03:08:38.871+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_set_stream_e_binary.py took 0.046 seconds
+[2024-07-23T03:08:44.163+0000] {processor.py:153} INFO - Started process (PID=8262) to work on /opt/airflow/dags/exemplo_set_stream_e_binary.py
+[2024-07-23T03:08:44.163+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_set_stream_e_binary.py for tasks to queue
+[2024-07-23T03:08:44.164+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:44.164+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_set_stream_e_binary.py
+[2024-07-23T03:08:44.175+0000] {processor.py:753} INFO - DAG(s) dict_keys(['downstream_dag']) retrieved from /opt/airflow/dags/exemplo_set_stream_e_binary.py
+[2024-07-23T03:08:44.185+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:44.185+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:08:44.199+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:44.199+0000] {dag.py:3441} INFO - Setting next_dagrun for downstream_dag to None, run_after=None
+[2024-07-23T03:08:44.213+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_set_stream_e_binary.py took 0.052 seconds
+[2024-07-23T03:08:49.456+0000] {processor.py:153} INFO - Started process (PID=8285) to work on /opt/airflow/dags/exemplo_set_stream_e_binary.py
+[2024-07-23T03:08:49.457+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_set_stream_e_binary.py for tasks to queue
+[2024-07-23T03:08:49.458+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:49.458+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_set_stream_e_binary.py
+[2024-07-23T03:08:49.472+0000] {processor.py:753} INFO - DAG(s) dict_keys(['downstream_dag']) retrieved from /opt/airflow/dags/exemplo_set_stream_e_binary.py
+[2024-07-23T03:08:49.482+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:49.482+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:08:49.498+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:49.498+0000] {dag.py:3441} INFO - Setting next_dagrun for downstream_dag to None, run_after=None
+[2024-07-23T03:08:49.508+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_set_stream_e_binary.py took 0.057 seconds
+[2024-07-23T03:08:54.771+0000] {processor.py:153} INFO - Started process (PID=8292) to work on /opt/airflow/dags/exemplo_set_stream_e_binary.py
+[2024-07-23T03:08:54.772+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_set_stream_e_binary.py for tasks to queue
+[2024-07-23T03:08:54.773+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:54.773+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_set_stream_e_binary.py
+[2024-07-23T03:08:54.791+0000] {processor.py:753} INFO - DAG(s) dict_keys(['downstream_dag']) retrieved from /opt/airflow/dags/exemplo_set_stream_e_binary.py
+[2024-07-23T03:08:54.805+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:54.805+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:08:54.821+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:54.821+0000] {dag.py:3441} INFO - Setting next_dagrun for downstream_dag to None, run_after=None
+[2024-07-23T03:08:54.832+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_set_stream_e_binary.py took 0.064 seconds
+[2024-07-23T03:09:00.014+0000] {processor.py:153} INFO - Started process (PID=8315) to work on /opt/airflow/dags/exemplo_set_stream_e_binary.py
+[2024-07-23T03:09:00.015+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_set_stream_e_binary.py for tasks to queue
+[2024-07-23T03:09:00.016+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:00.016+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_set_stream_e_binary.py
+[2024-07-23T03:09:00.030+0000] {processor.py:753} INFO - DAG(s) dict_keys(['downstream_dag']) retrieved from /opt/airflow/dags/exemplo_set_stream_e_binary.py
+[2024-07-23T03:09:00.041+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:00.041+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:09:00.061+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:00.061+0000] {dag.py:3441} INFO - Setting next_dagrun for downstream_dag to None, run_after=None
+[2024-07-23T03:09:00.073+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_set_stream_e_binary.py took 0.062 seconds
+[2024-07-23T03:09:05.322+0000] {processor.py:153} INFO - Started process (PID=8322) to work on /opt/airflow/dags/exemplo_set_stream_e_binary.py
+[2024-07-23T03:09:05.323+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_set_stream_e_binary.py for tasks to queue
+[2024-07-23T03:09:05.324+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:05.324+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_set_stream_e_binary.py
+[2024-07-23T03:09:05.335+0000] {processor.py:753} INFO - DAG(s) dict_keys(['downstream_dag']) retrieved from /opt/airflow/dags/exemplo_set_stream_e_binary.py
+[2024-07-23T03:09:05.351+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:05.351+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:09:05.364+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:05.364+0000] {dag.py:3441} INFO - Setting next_dagrun for downstream_dag to None, run_after=None
+[2024-07-23T03:09:05.375+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_set_stream_e_binary.py took 0.055 seconds

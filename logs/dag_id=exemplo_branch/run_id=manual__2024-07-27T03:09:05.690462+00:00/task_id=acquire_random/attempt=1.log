@@ -1,0 +1,23 @@
+[2024-07-27T03:09:06.708+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: exemplo_branch.acquire_random manual__2024-07-27T03:09:05.690462+00:00 [queued]>
+[2024-07-27T03:09:06.728+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: exemplo_branch.acquire_random manual__2024-07-27T03:09:05.690462+00:00 [queued]>
+[2024-07-27T03:09:06.729+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-27T03:09:06.731+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 1
+[2024-07-27T03:09:06.732+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-27T03:09:06.759+0000] {taskinstance.py:1300} INFO - Executing <Task(PythonOperator): acquire_random> on 2024-07-27 03:09:05.690462+00:00
+[2024-07-27T03:09:06.767+0000] {standard_task_runner.py:55} INFO - Started process 80077 to run task
+[2024-07-27T03:09:06.773+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'exemplo_branch', 'acquire_random', 'manual__2024-07-27T03:09:05.690462+00:00', '--job-id', '1757', '--raw', '--subdir', 'DAGS_FOLDER/__pycache__/exemplo_branch.py', '--cfg-path', '/tmp/tmp53hlwmjg']
+[2024-07-27T03:09:06.775+0000] {standard_task_runner.py:83} INFO - Job 1757: Subtask acquire_random
+[2024-07-27T03:09:06.975+0000] {task_command.py:388} INFO - Running <TaskInstance: exemplo_branch.acquire_random manual__2024-07-27T03:09:05.690462+00:00 [running]> on host 029011c5aea1
+[2024-07-27T03:09:07.156+0000] {taskinstance.py:1509} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=exemplo_branch
+AIRFLOW_CTX_TASK_ID=acquire_random
+AIRFLOW_CTX_EXECUTION_DATE=2024-07-27T03:09:05.690462+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2024-07-27T03:09:05.690462+00:00
+[2024-07-27T03:09:07.160+0000] {python.py:177} INFO - Done. Returned value was: 51
+[2024-07-27T03:09:07.210+0000] {taskinstance.py:1323} INFO - Marking task as SUCCESS. dag_id=exemplo_branch, task_id=acquire_random, execution_date=20240727T030905, start_date=20240727T030906, end_date=20240727T030907
+[2024-07-27T03:09:07.251+0000] {local_task_job.py:208} INFO - Task exited with return code 0
+[2024-07-27T03:09:07.306+0000] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check

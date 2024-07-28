@@ -1,0 +1,34 @@
+[2024-07-27T03:08:19.163+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: exemplo_branch.branch manual__2024-07-27T03:08:17.634292+00:00 [queued]>
+[2024-07-27T03:08:19.223+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: exemplo_branch.branch manual__2024-07-27T03:08:17.634292+00:00 [queued]>
+[2024-07-27T03:08:19.224+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-27T03:08:19.225+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 1
+[2024-07-27T03:08:19.226+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-27T03:08:19.234+0000] {taskinstance.py:1300} INFO - Executing <Task(BranchPythonOperator): branch> on 2024-07-27 03:08:17.634292+00:00
+[2024-07-27T03:08:19.238+0000] {standard_task_runner.py:55} INFO - Started process 80005 to run task
+[2024-07-27T03:08:19.240+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'exemplo_branch', 'branch', 'manual__2024-07-27T03:08:17.634292+00:00', '--job-id', '1756', '--raw', '--subdir', 'DAGS_FOLDER/__pycache__/exemplo_branch.py', '--cfg-path', '/tmp/tmp7xp4pcl_']
+[2024-07-27T03:08:19.240+0000] {standard_task_runner.py:83} INFO - Job 1756: Subtask branch
+[2024-07-27T03:08:19.276+0000] {task_command.py:388} INFO - Running <TaskInstance: exemplo_branch.branch manual__2024-07-27T03:08:17.634292+00:00 [running]> on host 029011c5aea1
+[2024-07-27T03:08:19.319+0000] {taskinstance.py:1509} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=exemplo_branch
+AIRFLOW_CTX_TASK_ID=branch
+AIRFLOW_CTX_EXECUTION_DATE=2024-07-27T03:08:17.634292+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2024-07-27T03:08:17.634292+00:00
+[2024-07-27T03:08:19.328+0000] {taskinstance.py:1768} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 210, in execute
+    branch = super().execute(context)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 175, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 192, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/__pycache__/exemplo_branch.py", line 27, in assert_random_number
+    return "even_task" if number % 2 == 0 else "odd_task"
+TypeError: unsupported operand type(s) for %: 'NoneType' and 'int'
+[2024-07-27T03:08:19.334+0000] {taskinstance.py:1323} INFO - Marking task as FAILED. dag_id=exemplo_branch, task_id=branch, execution_date=20240727T030817, start_date=20240727T030819, end_date=20240727T030819
+[2024-07-27T03:08:19.341+0000] {standard_task_runner.py:105} ERROR - Failed to execute job 1756 for task branch (unsupported operand type(s) for %: 'NoneType' and 'int'; 80005)
+[2024-07-27T03:08:19.379+0000] {local_task_job.py:208} INFO - Task exited with return code 1
+[2024-07-27T03:08:19.398+0000] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check

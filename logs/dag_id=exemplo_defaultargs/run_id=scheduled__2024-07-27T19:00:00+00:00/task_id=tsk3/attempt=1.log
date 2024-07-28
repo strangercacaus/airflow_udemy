@@ -1,0 +1,14 @@
+[2024-07-27T20:00:12.953+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: exemplo_defaultargs.tsk3 scheduled__2024-07-27T19:00:00+00:00 [queued]>
+[2024-07-27T20:00:12.960+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: exemplo_defaultargs.tsk3 scheduled__2024-07-27T19:00:00+00:00 [queued]>
+[2024-07-27T20:00:12.960+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-27T20:00:12.960+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 2
+[2024-07-27T20:00:12.960+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-27T20:00:12.968+0000] {taskinstance.py:1300} INFO - Executing <Task(BashOperator): tsk3> on 2024-07-27 19:00:00+00:00
+[2024-07-27T20:00:12.971+0000] {standard_task_runner.py:55} INFO - Started process 29662 to run task
+[2024-07-27T20:00:12.974+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'exemplo_defaultargs', 'tsk3', 'scheduled__2024-07-27T19:00:00+00:00', '--job-id', '1846', '--raw', '--subdir', 'DAGS_FOLDER/exemplo_defaultargs.py', '--cfg-path', '/tmp/tmp8zljwzsa']
+[2024-07-27T20:00:12.974+0000] {standard_task_runner.py:83} INFO - Job 1846: Subtask tsk3
+[2024-07-27T20:00:13.020+0000] {standard_task_runner.py:105} ERROR - Failed to execute job 1846 for task tsk3 ([Errno 2] No such file or directory: '/opt/airflow/logs/dag_id=exemplo_defaultargs/run_id=scheduled__2024-07-27T19:00:00+00:00/task_id=tsk3/attempt=1.log'; 29662)
+[2024-07-27T20:00:13.033+0000] {local_task_job.py:208} INFO - Task exited with return code 1
+[2024-07-27T20:00:13.045+0000] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check

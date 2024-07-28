@@ -1,0 +1,27 @@
+[2024-07-25T02:15:57.070+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: exemplo_bitwise_e_setstream.tsk2 manual__2024-07-25T02:15:49.971518+00:00 [queued]>
+[2024-07-25T02:15:57.084+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: exemplo_bitwise_e_setstream.tsk2 manual__2024-07-25T02:15:49.971518+00:00 [queued]>
+[2024-07-25T02:15:57.084+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-25T02:15:57.084+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 1
+[2024-07-25T02:15:57.085+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-25T02:15:57.098+0000] {taskinstance.py:1300} INFO - Executing <Task(BashOperator): tsk2> on 2024-07-25 02:15:49.971518+00:00
+[2024-07-25T02:15:57.101+0000] {standard_task_runner.py:55} INFO - Started process 31045 to run task
+[2024-07-25T02:15:57.104+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'exemplo_bitwise_e_setstream', 'tsk2', 'manual__2024-07-25T02:15:49.971518+00:00', '--job-id', '1349', '--raw', '--subdir', 'DAGS_FOLDER/exemplo_bitwise_e_setstream.py', '--cfg-path', '/tmp/tmplnmty55s']
+[2024-07-25T02:15:57.105+0000] {standard_task_runner.py:83} INFO - Job 1349: Subtask tsk2
+[2024-07-25T02:15:57.157+0000] {task_command.py:388} INFO - Running <TaskInstance: exemplo_bitwise_e_setstream.tsk2 manual__2024-07-25T02:15:49.971518+00:00 [running]> on host 448a9c84d52e
+[2024-07-25T02:15:57.200+0000] {taskinstance.py:1509} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=exemplo_bitwise_e_setstream
+AIRFLOW_CTX_TASK_ID=tsk2
+AIRFLOW_CTX_EXECUTION_DATE=2024-07-25T02:15:49.971518+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2024-07-25T02:15:49.971518+00:00
+[2024-07-25T02:15:57.201+0000] {subprocess.py:63} INFO - Tmp dir root location: 
+ /tmp
+[2024-07-25T02:15:57.202+0000] {subprocess.py:75} INFO - Running command: ['/bin/bash', '-c', 'sleep 10']
+[2024-07-25T02:15:57.211+0000] {subprocess.py:86} INFO - Output:
+[2024-07-25T02:16:07.228+0000] {subprocess.py:97} INFO - Command exited with return code 0
+[2024-07-25T02:16:07.318+0000] {taskinstance.py:1323} INFO - Marking task as SUCCESS. dag_id=exemplo_bitwise_e_setstream, task_id=tsk2, execution_date=20240725T021549, start_date=20240725T021557, end_date=20240725T021607
+[2024-07-25T02:16:07.431+0000] {local_task_job.py:208} INFO - Task exited with return code 0
+[2024-07-25T02:16:07.489+0000] {taskinstance.py:2578} INFO - 1 downstream tasks scheduled from follow-on schedule check

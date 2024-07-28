@@ -1,0 +1,438 @@
+[2024-07-23T03:04:48.873+0000] {processor.py:153} INFO - Started process (PID=7629) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:04:48.874+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:04:48.874+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:04:48.874+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:04:48.895+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:04:48.965+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:04:48.965+0000] {manager.py:504} INFO - Created Permission View: can read on DAG:sexta_dag
+[2024-07-23T03:04:48.972+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:04:48.972+0000] {manager.py:504} INFO - Created Permission View: can edit on DAG:sexta_dag
+[2024-07-23T03:04:48.979+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:04:48.979+0000] {manager.py:504} INFO - Created Permission View: can delete on DAG:sexta_dag
+[2024-07-23T03:04:48.979+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:04:48.979+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:04:48.986+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:04:48.986+0000] {dag.py:2711} INFO - Creating ORM DAG for sexta_dag
+[2024-07-23T03:04:48.993+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:04:48.993+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:04:49.002+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.131 seconds
+[2024-07-23T03:04:54.162+0000] {processor.py:153} INFO - Started process (PID=7643) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:04:54.163+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:04:54.164+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:04:54.164+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:04:54.179+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:04:54.190+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:04:54.190+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:04:54.207+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:04:54.207+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:04:54.225+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.067 seconds
+[2024-07-23T03:04:59.384+0000] {processor.py:153} INFO - Started process (PID=7654) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:04:59.385+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:04:59.385+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:04:59.385+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:04:59.400+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:04:59.412+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:04:59.412+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:04:59.432+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:04:59.432+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:04:59.444+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.064 seconds
+[2024-07-23T03:05:04.622+0000] {processor.py:153} INFO - Started process (PID=7677) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:04.623+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:05:04.624+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:04.624+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:04.646+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:04.663+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:04.663+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:05:04.679+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:04.679+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:05:04.691+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.075 seconds
+[2024-07-23T03:05:09.861+0000] {processor.py:153} INFO - Started process (PID=7684) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:09.862+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:05:09.864+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:09.864+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:09.885+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:09.895+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:09.895+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:05:09.912+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:09.912+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:05:09.924+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.068 seconds
+[2024-07-23T03:05:15.107+0000] {processor.py:153} INFO - Started process (PID=7707) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:15.108+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:05:15.109+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:15.109+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:15.133+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:15.142+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:15.142+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:05:15.157+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:15.157+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:05:15.167+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.065 seconds
+[2024-07-23T03:05:20.309+0000] {processor.py:153} INFO - Started process (PID=7714) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:20.310+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:05:20.311+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:20.311+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:20.330+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:20.347+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:20.347+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:05:20.361+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:20.361+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:05:20.373+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.069 seconds
+[2024-07-23T03:05:25.580+0000] {processor.py:153} INFO - Started process (PID=7737) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:25.581+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:05:25.582+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:25.582+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:25.599+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:25.618+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:25.618+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:05:25.634+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:25.634+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:05:25.651+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.075 seconds
+[2024-07-23T03:05:30.880+0000] {processor.py:153} INFO - Started process (PID=7744) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:30.880+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:05:30.881+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:30.881+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:30.894+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:30.915+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:30.915+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:05:30.933+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:30.933+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:05:30.951+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.074 seconds
+[2024-07-23T03:05:36.148+0000] {processor.py:153} INFO - Started process (PID=7767) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:36.149+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:05:36.150+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:36.150+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:36.176+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:36.193+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:36.193+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:05:36.209+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:36.209+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:05:36.223+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.080 seconds
+[2024-07-23T03:05:41.375+0000] {processor.py:153} INFO - Started process (PID=7774) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:41.376+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:05:41.376+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:41.376+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:41.385+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:41.404+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:41.404+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:05:41.418+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:41.418+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:05:41.428+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.056 seconds
+[2024-07-23T03:05:46.577+0000] {processor.py:153} INFO - Started process (PID=7797) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:46.578+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:05:46.579+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:46.579+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:46.597+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:46.617+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:46.617+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:05:46.633+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:46.633+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:05:46.650+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.077 seconds
+[2024-07-23T03:05:51.845+0000] {processor.py:153} INFO - Started process (PID=7804) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:51.846+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:05:51.848+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:51.848+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:51.866+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:51.882+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:51.882+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:05:51.897+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:51.897+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:05:51.912+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.072 seconds
+[2024-07-23T03:05:57.069+0000] {processor.py:153} INFO - Started process (PID=7827) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:57.069+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:05:57.070+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:57.070+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:57.079+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:05:57.099+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:57.099+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:05:57.116+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:05:57.115+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:05:57.126+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.059 seconds
+[2024-07-23T03:06:02.329+0000] {processor.py:153} INFO - Started process (PID=7834) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:02.330+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:06:02.331+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:02.331+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:02.351+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:02.379+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:02.379+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:06:02.405+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:02.405+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:06:02.433+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.109 seconds
+[2024-07-23T03:06:07.672+0000] {processor.py:153} INFO - Started process (PID=7848) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:07.674+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:06:07.675+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:07.675+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:07.686+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:07.701+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:07.701+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:06:07.714+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:07.714+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:06:07.726+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.056 seconds
+[2024-07-23T03:06:12.923+0000] {processor.py:153} INFO - Started process (PID=7864) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:12.924+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:06:12.925+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:12.925+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:12.938+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:12.956+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:12.956+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:06:12.972+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:12.972+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:06:12.986+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.065 seconds
+[2024-07-23T03:06:18.145+0000] {processor.py:153} INFO - Started process (PID=7871) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:18.147+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:06:18.148+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:18.148+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:18.168+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:18.188+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:18.187+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:06:18.202+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:18.202+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:06:18.219+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.078 seconds
+[2024-07-23T03:06:23.387+0000] {processor.py:153} INFO - Started process (PID=7894) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:23.388+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:06:23.389+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:23.389+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:23.403+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:23.420+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:23.420+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:06:23.436+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:23.436+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:06:23.456+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.072 seconds
+[2024-07-23T03:06:28.642+0000] {processor.py:153} INFO - Started process (PID=7901) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:28.643+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:06:28.645+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:28.645+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:28.667+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:28.683+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:28.683+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:06:28.698+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:28.698+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:06:28.710+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.072 seconds
+[2024-07-23T03:06:33.874+0000] {processor.py:153} INFO - Started process (PID=7924) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:33.875+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:06:33.876+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:33.876+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:33.892+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:33.911+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:33.911+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:06:33.925+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:33.925+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:06:33.943+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.074 seconds
+[2024-07-23T03:06:39.151+0000] {processor.py:153} INFO - Started process (PID=7931) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:39.153+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:06:39.154+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:39.154+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:39.169+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:39.188+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:39.188+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:06:39.202+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:39.202+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:06:39.216+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.069 seconds
+[2024-07-23T03:06:44.371+0000] {processor.py:153} INFO - Started process (PID=7954) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:44.371+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:06:44.372+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:44.372+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:44.388+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:44.406+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:44.406+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:06:44.421+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:44.421+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:06:44.437+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.072 seconds
+[2024-07-23T03:06:49.601+0000] {processor.py:153} INFO - Started process (PID=7961) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:49.603+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:06:49.604+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:49.604+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:49.618+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:49.635+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:49.635+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:06:49.650+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:49.650+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:06:49.663+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.066 seconds
+[2024-07-23T03:06:54.842+0000] {processor.py:153} INFO - Started process (PID=7984) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:54.843+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:06:54.844+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:54.844+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:54.866+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:06:54.887+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:54.887+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:06:54.902+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:06:54.902+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:06:54.914+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.077 seconds
+[2024-07-23T03:07:00.077+0000] {processor.py:153} INFO - Started process (PID=7991) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:00.078+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:07:00.080+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:00.080+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:00.102+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:00.120+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:00.120+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:07:00.136+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:00.135+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:07:00.149+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.076 seconds
+[2024-07-23T03:07:05.316+0000] {processor.py:153} INFO - Started process (PID=8013) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:05.316+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:07:05.317+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:05.317+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:05.329+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:05.344+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:05.344+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:07:05.358+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:05.358+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:07:05.370+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.056 seconds
+[2024-07-23T03:07:10.547+0000] {processor.py:153} INFO - Started process (PID=8019) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:10.548+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:07:10.549+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:10.549+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:10.564+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:10.579+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:10.579+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:07:10.597+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:10.597+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:07:10.610+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.068 seconds
+[2024-07-23T03:07:15.780+0000] {processor.py:153} INFO - Started process (PID=8042) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:15.781+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:07:15.782+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:15.782+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:15.828+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:15.846+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:15.845+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:07:15.861+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:15.861+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:07:15.877+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.102 seconds
+[2024-07-23T03:07:21.047+0000] {processor.py:153} INFO - Started process (PID=8048) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:21.048+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:07:21.049+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:21.049+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:21.065+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:21.084+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:21.084+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:07:21.098+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:21.098+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:07:21.109+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.066 seconds
+[2024-07-23T03:07:26.270+0000] {processor.py:153} INFO - Started process (PID=8054) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:26.272+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:07:26.273+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:26.273+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:26.290+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:26.307+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:26.307+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:07:26.324+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:26.324+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:07:26.336+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.071 seconds
+[2024-07-23T03:07:31.434+0000] {processor.py:153} INFO - Started process (PID=8075) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:31.435+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:07:31.436+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:31.436+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:31.451+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:31.467+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:31.466+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:07:31.481+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:31.481+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:07:31.495+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.066 seconds
+[2024-07-23T03:07:36.724+0000] {processor.py:153} INFO - Started process (PID=8082) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:36.725+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:07:36.726+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:36.726+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:36.743+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:36.764+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:36.764+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:07:36.781+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:36.781+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:07:36.803+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.082 seconds
+[2024-07-23T03:07:41.946+0000] {processor.py:153} INFO - Started process (PID=8104) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:41.950+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:07:41.951+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:41.951+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:41.972+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:41.988+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:41.988+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:07:42.006+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:42.005+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:07:42.018+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.075 seconds
+[2024-07-23T03:07:47.235+0000] {processor.py:153} INFO - Started process (PID=8110) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:47.236+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:07:47.237+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:47.237+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:47.254+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:47.271+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:47.271+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:07:47.287+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:47.287+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:07:47.303+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.071 seconds
+[2024-07-23T03:07:52.372+0000] {processor.py:153} INFO - Started process (PID=8131) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:52.372+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:07:52.373+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:52.373+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:52.382+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:52.395+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:52.395+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:07:52.409+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:52.409+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:07:52.421+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.051 seconds
+[2024-07-23T03:07:57.660+0000] {processor.py:153} INFO - Started process (PID=8138) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:57.662+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:07:57.663+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:57.663+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:57.683+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:07:57.700+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:57.700+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:07:57.715+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:57.715+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:07:57.727+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.072 seconds
+[2024-07-23T03:08:02.885+0000] {processor.py:153} INFO - Started process (PID=8160) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:02.886+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:08:02.886+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:02.886+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:02.900+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:02.919+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:02.919+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:08:02.937+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:02.937+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:08:02.950+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.069 seconds
+[2024-07-23T03:08:08.185+0000] {processor.py:153} INFO - Started process (PID=8166) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:08.187+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:08:08.188+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:08.188+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:08.211+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:08.228+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:08.228+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:08:08.243+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:08.243+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:08:08.264+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.082 seconds
+[2024-07-23T03:08:13.425+0000] {processor.py:153} INFO - Started process (PID=8188) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:13.426+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:08:13.428+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:13.428+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:13.440+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:13.459+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:13.459+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:08:13.471+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:13.471+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:08:13.482+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.059 seconds
+[2024-07-23T03:08:18.669+0000] {processor.py:153} INFO - Started process (PID=8195) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:18.672+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:08:18.673+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:18.673+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:18.693+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:18.712+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:18.712+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:08:18.726+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:18.726+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:08:18.742+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.077 seconds
+[2024-07-23T03:08:23.958+0000] {processor.py:153} INFO - Started process (PID=8218) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:23.959+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:08:23.959+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:23.959+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:23.970+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:23.995+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:23.995+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:08:24.010+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:24.010+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:08:24.027+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.073 seconds
+[2024-07-23T03:08:29.259+0000] {processor.py:153} INFO - Started process (PID=8225) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:29.260+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:08:29.261+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:29.261+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:29.278+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:29.298+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:29.298+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:08:29.314+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:29.314+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:08:29.330+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.076 seconds
+[2024-07-23T03:08:34.565+0000] {processor.py:153} INFO - Started process (PID=8242) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:34.566+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:08:34.567+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:34.567+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:34.580+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:34.663+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:34.663+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:08:34.679+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:34.679+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:08:34.689+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.126 seconds
+[2024-07-23T03:08:39.880+0000] {processor.py:153} INFO - Started process (PID=8256) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:39.881+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:08:39.882+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:39.882+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:39.896+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:39.918+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:39.918+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:08:39.941+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:39.941+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:08:39.965+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.088 seconds
+[2024-07-23T03:08:45.222+0000] {processor.py:153} INFO - Started process (PID=8263) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:45.223+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:08:45.224+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:45.224+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:45.239+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:45.262+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:45.262+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:08:45.279+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:45.279+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:08:45.292+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.073 seconds
+[2024-07-23T03:08:50.513+0000] {processor.py:153} INFO - Started process (PID=8286) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:50.514+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:08:50.515+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:50.515+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:50.527+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:50.549+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:50.548+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:08:50.564+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:50.563+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:08:50.580+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.072 seconds
+[2024-07-23T03:08:55.798+0000] {processor.py:153} INFO - Started process (PID=8293) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:55.801+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:08:55.802+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:55.802+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:55.822+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:08:55.843+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:55.843+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:08:55.859+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:08:55.858+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:08:55.876+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.083 seconds
+[2024-07-23T03:09:01.100+0000] {processor.py:153} INFO - Started process (PID=8316) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:01.102+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:09:01.103+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:01.103+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:01.126+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:01.142+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:01.142+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:09:01.157+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:01.157+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:09:01.168+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.073 seconds
+[2024-07-23T03:09:06.382+0000] {processor.py:153} INFO - Started process (PID=8323) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:06.383+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:09:06.384+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:06.384+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:06.407+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:06.423+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:06.423+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:09:06.438+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:06.438+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:09:06.455+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.078 seconds
+[2024-07-23T03:09:11.622+0000] {processor.py:153} INFO - Started process (PID=8345) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:11.623+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:09:11.624+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:11.624+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:11.643+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:11.659+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:11.659+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:09:11.678+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:11.678+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:09:11.691+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.074 seconds
+[2024-07-23T03:09:16.932+0000] {processor.py:153} INFO - Started process (PID=8352) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:16.933+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:09:16.934+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:16.934+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:16.952+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:16.970+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:16.970+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:09:16.985+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:16.985+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:09:17.001+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.074 seconds
+[2024-07-23T03:09:22.136+0000] {processor.py:153} INFO - Started process (PID=8375) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:22.137+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:09:22.137+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:22.137+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:22.152+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:22.170+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:22.170+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:09:22.183+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:22.183+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:09:22.199+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.066 seconds
+[2024-07-23T03:09:27.450+0000] {processor.py:153} INFO - Started process (PID=8382) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:27.451+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:09:27.452+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:27.452+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:27.474+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:27.492+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:27.492+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:09:27.507+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:27.507+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:09:27.524+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.079 seconds
+[2024-07-23T03:09:32.727+0000] {processor.py:153} INFO - Started process (PID=8405) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:32.728+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:09:32.728+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:32.728+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:32.743+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:32.760+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:32.760+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:09:32.776+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:32.776+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:09:32.788+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.063 seconds
+[2024-07-23T03:09:37.943+0000] {processor.py:153} INFO - Started process (PID=8412) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:37.944+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:09:37.945+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:37.945+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:37.958+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:37.973+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:37.972+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:09:37.988+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:37.988+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:09:38.002+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.061 seconds
+[2024-07-23T03:09:43.178+0000] {processor.py:153} INFO - Started process (PID=8434) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:43.179+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:09:43.180+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:43.180+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:43.191+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:43.207+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:43.207+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:09:43.221+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:43.221+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:09:43.234+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.058 seconds
+[2024-07-23T03:09:48.375+0000] {processor.py:153} INFO - Started process (PID=8439) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:48.376+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:09:48.377+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:48.377+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:48.394+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:48.409+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:48.409+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:09:48.423+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:48.423+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:09:48.434+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.063 seconds
+[2024-07-23T03:09:53.579+0000] {processor.py:153} INFO - Started process (PID=8460) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:53.580+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:09:53.581+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:53.581+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:53.593+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:53.607+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:53.607+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:09:53.622+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:53.622+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:09:53.632+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.058 seconds
+[2024-07-23T03:09:58.891+0000] {processor.py:153} INFO - Started process (PID=8467) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:58.892+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:09:58.893+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:58.893+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:58.909+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:09:58.929+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:58.929+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:09:58.943+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:09:58.943+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:09:58.953+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.066 seconds
+[2024-07-23T03:10:04.165+0000] {processor.py:153} INFO - Started process (PID=8481) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:10:04.166+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:10:04.167+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:10:04.167+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:10:04.177+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:10:04.192+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:10:04.192+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:10:04.206+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:10:04.206+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:10:04.216+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.054 seconds
+[2024-07-23T03:10:09.473+0000] {processor.py:153} INFO - Started process (PID=8497) to work on /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:10:09.474+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/sexta_dag.py for tasks to queue
+[2024-07-23T03:10:09.475+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:10:09.475+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:10:09.492+0000] {processor.py:753} INFO - DAG(s) dict_keys(['sexta_dag']) retrieved from /opt/airflow/dags/sexta_dag.py
+[2024-07-23T03:10:09.508+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:10:09.508+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:10:09.522+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:10:09.522+0000] {dag.py:3441} INFO - Setting next_dagrun for sexta_dag to None, run_after=None
+[2024-07-23T03:10:09.532+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/sexta_dag.py took 0.064 seconds

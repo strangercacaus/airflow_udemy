@@ -1,0 +1,42 @@
+[2024-07-23T03:03:46.334+0000] {processor.py:153} INFO - Started process (PID=7473) to work on /opt/airflow/dags/trigger_rule_task.py
+[2024-07-23T03:03:46.335+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_rule_task.py for tasks to queue
+[2024-07-23T03:03:46.335+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:03:46.335+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_rule_task.py
+[2024-07-23T03:03:46.349+0000] {processor.py:753} INFO - DAG(s) dict_keys(['quinta_dag']) retrieved from /opt/airflow/dags/trigger_rule_task.py
+[2024-07-23T03:03:46.387+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:03:46.387+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:03:46.400+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:03:46.400+0000] {dag.py:3441} INFO - Setting next_dagrun for quinta_dag to None, run_after=None
+[2024-07-23T03:03:46.415+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_rule_task.py took 0.084 seconds
+[2024-07-23T03:03:51.552+0000] {processor.py:153} INFO - Started process (PID=7479) to work on /opt/airflow/dags/trigger_rule_task.py
+[2024-07-23T03:03:51.554+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_rule_task.py for tasks to queue
+[2024-07-23T03:03:51.555+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:03:51.555+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_rule_task.py
+[2024-07-23T03:03:51.575+0000] {processor.py:753} INFO - DAG(s) dict_keys(['quinta_dag']) retrieved from /opt/airflow/dags/trigger_rule_task.py
+[2024-07-23T03:03:51.583+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:03:51.583+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:03:51.597+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:03:51.597+0000] {dag.py:3441} INFO - Setting next_dagrun for quinta_dag to None, run_after=None
+[2024-07-23T03:03:51.608+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_rule_task.py took 0.063 seconds
+[2024-07-23T03:03:56.854+0000] {processor.py:153} INFO - Started process (PID=7501) to work on /opt/airflow/dags/trigger_rule_task.py
+[2024-07-23T03:03:56.855+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_rule_task.py for tasks to queue
+[2024-07-23T03:03:56.856+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:03:56.856+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_rule_task.py
+[2024-07-23T03:03:56.876+0000] {processor.py:753} INFO - DAG(s) dict_keys(['quinta_dag']) retrieved from /opt/airflow/dags/trigger_rule_task.py
+[2024-07-23T03:03:56.891+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:03:56.890+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:03:56.906+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:03:56.906+0000] {dag.py:3441} INFO - Setting next_dagrun for quinta_dag to None, run_after=None
+[2024-07-23T03:03:56.916+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_rule_task.py took 0.067 seconds
+[2024-07-23T03:04:02.057+0000] {processor.py:153} INFO - Started process (PID=7507) to work on /opt/airflow/dags/trigger_rule_task.py
+[2024-07-23T03:04:02.058+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_rule_task.py for tasks to queue
+[2024-07-23T03:04:02.059+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:04:02.059+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_rule_task.py
+[2024-07-23T03:04:02.078+0000] {processor.py:753} INFO - DAG(s) dict_keys(['quinta_dag']) retrieved from /opt/airflow/dags/trigger_rule_task.py
+[2024-07-23T03:04:02.093+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:04:02.093+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:04:02.110+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:04:02.110+0000] {dag.py:3441} INFO - Setting next_dagrun for quinta_dag to None, run_after=None
+[2024-07-23T03:04:02.119+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_rule_task.py took 0.068 seconds
+[2024-07-23T03:04:07.293+0000] {processor.py:153} INFO - Started process (PID=7528) to work on /opt/airflow/dags/trigger_rule_task.py
+[2024-07-23T03:04:07.294+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_rule_task.py for tasks to queue
+[2024-07-23T03:04:07.295+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:04:07.295+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_rule_task.py
+[2024-07-23T03:04:07.307+0000] {processor.py:753} INFO - DAG(s) dict_keys(['quinta_dag']) retrieved from /opt/airflow/dags/trigger_rule_task.py
+[2024-07-23T03:04:07.319+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:04:07.319+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:04:07.340+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:04:07.340+0000] {dag.py:3441} INFO - Setting next_dagrun for quinta_dag to None, run_after=None
+[2024-07-23T03:04:07.358+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_rule_task.py took 0.069 seconds
+[2024-07-23T03:04:12.477+0000] {processor.py:153} INFO - Started process (PID=7534) to work on /opt/airflow/dags/trigger_rule_task.py
+[2024-07-23T03:04:12.478+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_rule_task.py for tasks to queue
+[2024-07-23T03:04:12.478+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:04:12.478+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_rule_task.py
+[2024-07-23T03:04:12.492+0000] {processor.py:753} INFO - DAG(s) dict_keys(['quinta_dag']) retrieved from /opt/airflow/dags/trigger_rule_task.py
+[2024-07-23T03:04:12.503+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:04:12.503+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:04:12.524+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:04:12.524+0000] {dag.py:3441} INFO - Setting next_dagrun for quinta_dag to None, run_after=None
+[2024-07-23T03:04:12.543+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_rule_task.py took 0.068 seconds

@@ -1,0 +1,672 @@
+[2024-07-28T02:33:07.107+0000] {processor.py:153} INFO - Started process (PID=51) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:33:07.108+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:33:07.108+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:07.108+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:33:07.121+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:33:07.148+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:07.148+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:33:07.181+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:07.181+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:33:07.211+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.111 seconds
+[2024-07-28T02:33:12.883+0000] {processor.py:153} INFO - Started process (PID=92) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:33:12.883+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:33:12.884+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:12.884+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:33:12.899+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:33:12.917+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:12.917+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:33:12.932+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:12.932+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:33:12.941+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.060 seconds
+[2024-07-28T02:33:18.115+0000] {processor.py:153} INFO - Started process (PID=121) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:33:18.116+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:33:18.116+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:18.116+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:33:18.126+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:33:18.138+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:18.138+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:33:18.152+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:18.151+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:33:18.161+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.048 seconds
+[2024-07-28T02:33:45.763+0000] {processor.py:153} INFO - Started process (PID=55) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:33:45.767+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:33:45.768+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:45.767+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:33:45.781+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:33:45.836+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:45.836+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:33:45.856+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:45.855+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:33:45.882+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.123 seconds
+[2024-07-28T02:33:51.328+0000] {processor.py:153} INFO - Started process (PID=89) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:33:51.328+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:33:51.329+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:51.329+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:33:51.339+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:33:51.353+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:51.353+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:33:51.369+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:51.369+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:33:51.381+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.055 seconds
+[2024-07-28T02:33:57.270+0000] {processor.py:153} INFO - Started process (PID=121) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:33:57.273+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:33:57.275+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:57.275+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:33:57.296+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:33:57.307+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:57.306+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:33:57.329+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:57.329+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:33:57.345+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.078 seconds
+[2024-07-28T02:34:02.759+0000] {processor.py:153} INFO - Started process (PID=153) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:34:02.760+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:34:02.762+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:02.762+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:34:02.782+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:34:02.798+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:02.798+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:34:02.824+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:02.824+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:34:02.838+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.081 seconds
+[2024-07-28T02:34:08.864+0000] {processor.py:153} INFO - Started process (PID=187) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:34:08.865+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:34:08.865+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:08.865+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:34:08.875+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:34:08.886+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:08.886+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:34:08.901+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:08.901+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:34:08.914+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.052 seconds
+[2024-07-28T02:34:15.023+0000] {processor.py:153} INFO - Started process (PID=228) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:34:15.029+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:34:15.029+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:15.029+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:34:15.042+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:34:15.057+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:15.056+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:34:15.077+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:15.077+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:34:15.088+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.068 seconds
+[2024-07-28T02:34:21.061+0000] {processor.py:153} INFO - Started process (PID=253) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:34:21.063+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:34:21.063+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:21.063+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:34:21.076+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:34:21.095+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:21.094+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:34:21.109+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:21.108+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:34:21.127+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.067 seconds
+[2024-07-28T02:34:26.497+0000] {processor.py:153} INFO - Started process (PID=294) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:34:26.502+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:34:26.503+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:26.503+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:34:26.514+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:34:26.533+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:26.533+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:34:26.548+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:26.548+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:34:26.565+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.072 seconds
+[2024-07-28T02:34:31.646+0000] {processor.py:153} INFO - Started process (PID=319) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:34:31.648+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:34:31.649+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:31.649+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:34:31.663+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:34:31.682+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:31.682+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:34:31.698+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:31.697+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:34:31.713+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.069 seconds
+[2024-07-28T02:34:36.837+0000] {processor.py:153} INFO - Started process (PID=344) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:34:36.838+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:34:36.838+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:36.838+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:34:36.848+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:34:36.860+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:36.860+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:34:36.875+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:36.875+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:34:36.887+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.052 seconds
+[2024-07-28T02:34:42.906+0000] {processor.py:153} INFO - Started process (PID=384) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:34:42.906+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:34:42.907+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:42.907+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:34:42.916+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:34:42.927+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:42.927+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:34:42.940+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:42.940+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:34:42.948+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.043 seconds
+[2024-07-28T02:34:49.149+0000] {processor.py:153} INFO - Started process (PID=425) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:34:49.150+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:34:49.151+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:49.151+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:34:49.166+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:34:49.181+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:49.181+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:34:49.197+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:49.197+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:34:49.213+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.066 seconds
+[2024-07-28T02:34:54.611+0000] {processor.py:153} INFO - Started process (PID=450) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:34:54.611+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:34:54.612+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:54.612+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:34:54.622+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:34:54.641+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:54.641+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:34:54.659+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:54.659+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:34:54.672+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.064 seconds
+[2024-07-28T02:35:00.805+0000] {processor.py:153} INFO - Started process (PID=491) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:35:00.806+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:35:00.807+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:00.807+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:35:00.820+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:35:00.851+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:00.851+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:35:00.869+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:00.869+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:35:00.885+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.082 seconds
+[2024-07-28T02:35:06.210+0000] {processor.py:153} INFO - Started process (PID=516) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:35:06.210+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:35:06.211+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:06.211+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:35:06.222+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:35:06.249+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:06.248+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:35:06.267+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:06.267+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:35:06.282+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.074 seconds
+[2024-07-28T02:35:12.568+0000] {processor.py:153} INFO - Started process (PID=557) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:35:12.569+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:35:12.570+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:12.570+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:35:12.581+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:35:12.598+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:12.598+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:35:12.616+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:12.616+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:35:12.630+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.063 seconds
+[2024-07-28T02:35:18.503+0000] {processor.py:153} INFO - Started process (PID=582) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:35:18.504+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:35:18.506+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:18.506+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:35:18.518+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:35:18.571+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:18.571+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:35:18.590+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:18.590+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:35:18.600+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.099 seconds
+[2024-07-28T02:35:24.569+0000] {processor.py:153} INFO - Started process (PID=623) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:35:24.570+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:35:24.572+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:24.571+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:35:24.583+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:35:24.604+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:24.604+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:35:24.619+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:24.619+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:35:24.633+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.066 seconds
+[2024-07-28T02:35:30.715+0000] {processor.py:153} INFO - Started process (PID=648) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:35:30.717+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:35:30.718+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:30.718+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:35:30.728+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:35:30.743+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:30.743+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:35:30.760+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:30.760+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:35:30.775+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.062 seconds
+[2024-07-28T02:35:36.798+0000] {processor.py:153} INFO - Started process (PID=689) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:35:36.798+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:35:36.799+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:36.799+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:35:36.808+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:35:36.825+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:36.825+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:35:36.840+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:36.840+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:35:36.854+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.058 seconds
+[2024-07-28T02:35:42.776+0000] {processor.py:153} INFO - Started process (PID=714) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:35:42.778+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:35:42.779+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:42.779+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:35:42.788+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:35:42.809+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:42.809+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:35:42.828+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:42.828+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:35:42.840+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.066 seconds
+[2024-07-28T02:35:48.835+0000] {processor.py:153} INFO - Started process (PID=755) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:35:48.836+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:35:48.838+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:48.838+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:35:48.848+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:35:48.873+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:48.872+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:35:48.887+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:48.887+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:35:48.897+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.065 seconds
+[2024-07-28T02:35:54.920+0000] {processor.py:153} INFO - Started process (PID=780) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:35:54.920+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:35:54.921+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:54.921+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:35:54.930+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:35:54.949+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:54.949+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:35:54.964+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:54.964+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:35:54.978+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.061 seconds
+[2024-07-28T02:36:01.002+0000] {processor.py:153} INFO - Started process (PID=821) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:36:01.004+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:36:01.006+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:01.005+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:36:01.016+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:36:01.037+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:01.037+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:36:01.053+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:01.053+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:36:01.064+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.064 seconds
+[2024-07-28T02:36:07.021+0000] {processor.py:153} INFO - Started process (PID=846) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:36:07.022+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:36:07.022+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:07.022+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:36:07.034+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:36:07.050+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:07.050+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:36:07.064+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:07.064+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:36:07.081+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.062 seconds
+[2024-07-28T02:36:13.101+0000] {processor.py:153} INFO - Started process (PID=887) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:36:13.102+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:36:13.104+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:13.104+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:36:13.115+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:36:13.128+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:13.128+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:36:13.143+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:13.143+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:36:13.153+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.054 seconds
+[2024-07-28T02:36:19.121+0000] {processor.py:153} INFO - Started process (PID=921) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:36:19.122+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:36:19.124+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:19.124+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:36:19.135+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:36:19.154+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:19.154+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:36:19.170+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:19.170+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:36:19.182+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.062 seconds
+[2024-07-28T02:36:25.321+0000] {processor.py:153} INFO - Started process (PID=953) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:36:25.322+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:36:25.322+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:25.322+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:36:25.331+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:36:25.347+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:25.347+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:36:25.362+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:25.362+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:36:25.373+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.053 seconds
+[2024-07-28T02:36:31.394+0000] {processor.py:153} INFO - Started process (PID=994) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:36:31.394+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:36:31.395+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:31.394+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:36:31.404+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:36:31.416+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:31.416+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:36:31.429+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:31.429+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:36:31.437+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.046 seconds
+[2024-07-28T02:36:37.459+0000] {processor.py:153} INFO - Started process (PID=1019) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:36:37.461+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:36:37.461+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:37.461+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:36:37.471+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:36:37.485+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:37.485+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:36:37.499+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:37.499+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:36:37.513+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.056 seconds
+[2024-07-28T02:36:43.481+0000] {processor.py:153} INFO - Started process (PID=1060) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:36:43.482+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:36:43.482+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:43.482+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:36:43.493+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:36:43.507+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:43.507+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:36:43.520+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:43.519+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:36:43.532+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.052 seconds
+[2024-07-28T02:36:49.635+0000] {processor.py:153} INFO - Started process (PID=1085) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:36:49.636+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:36:49.636+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:49.636+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:36:49.650+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:36:49.664+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:49.664+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:36:49.678+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:49.678+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:36:49.691+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.058 seconds
+[2024-07-28T02:36:55.628+0000] {processor.py:153} INFO - Started process (PID=1126) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:36:55.630+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:36:55.632+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:55.631+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:36:55.641+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:36:55.660+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:55.660+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:36:55.678+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:55.677+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:36:55.697+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.071 seconds
+[2024-07-28T02:37:01.718+0000] {processor.py:153} INFO - Started process (PID=1151) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:37:01.719+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:37:01.719+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:01.719+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:37:01.728+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:37:01.745+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:01.744+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:37:01.759+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:01.759+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:37:01.769+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.056 seconds
+[2024-07-28T02:37:07.896+0000] {processor.py:153} INFO - Started process (PID=1192) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:37:07.897+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:37:07.897+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:07.897+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:37:07.917+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:37:07.933+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:07.932+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:37:07.950+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:07.950+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:37:07.961+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.067 seconds
+[2024-07-28T02:37:13.078+0000] {processor.py:153} INFO - Started process (PID=1217) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:37:13.078+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:37:13.081+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:13.081+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:37:13.091+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:37:13.110+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:13.110+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:37:13.125+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:13.125+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:37:13.136+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.061 seconds
+[2024-07-28T02:37:19.066+0000] {processor.py:153} INFO - Started process (PID=1258) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:37:19.066+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:37:19.067+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:19.067+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:37:19.076+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:37:19.090+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:19.090+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:37:19.105+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:19.105+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:37:19.119+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.055 seconds
+[2024-07-28T02:37:24.996+0000] {processor.py:153} INFO - Started process (PID=1283) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:37:24.997+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:37:24.998+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:24.998+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:37:25.008+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:37:25.023+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:25.023+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:37:25.036+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:25.036+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:37:25.047+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.053 seconds
+[2024-07-28T02:37:31.014+0000] {processor.py:153} INFO - Started process (PID=1324) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:37:31.016+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:37:31.016+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:31.016+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:37:31.028+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:37:31.044+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:31.044+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:37:31.058+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:31.058+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:37:31.071+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.058 seconds
+[2024-07-28T02:37:36.999+0000] {processor.py:153} INFO - Started process (PID=1349) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:37:37.002+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:37:37.002+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:37.002+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:37:37.015+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:37:37.034+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:37.034+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:37:37.048+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:37.048+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:37:37.060+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.063 seconds
+[2024-07-28T02:37:43.014+0000] {processor.py:153} INFO - Started process (PID=1390) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:37:43.015+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:37:43.017+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:43.017+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:37:43.027+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:37:43.039+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:43.039+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:37:43.053+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:43.053+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:37:43.068+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.056 seconds
+[2024-07-28T02:37:48.954+0000] {processor.py:153} INFO - Started process (PID=1424) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:37:48.954+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:37:48.955+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:48.955+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:37:48.966+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:37:48.980+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:48.980+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:37:48.997+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:48.997+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:37:49.013+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.061 seconds
+[2024-07-28T02:37:54.921+0000] {processor.py:153} INFO - Started process (PID=1456) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:37:54.922+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:37:54.923+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:54.923+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:37:54.932+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:37:54.946+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:54.946+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:37:54.960+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:54.960+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:37:54.970+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.050 seconds
+[2024-07-28T02:38:01.235+0000] {processor.py:153} INFO - Started process (PID=1497) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:38:01.236+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:38:01.236+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:01.236+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:38:01.247+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:38:01.267+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:01.267+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:01.287+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:01.287+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:38:01.301+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.068 seconds
+[2024-07-28T02:38:06.426+0000] {processor.py:153} INFO - Started process (PID=1522) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:38:06.427+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:38:06.427+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:06.427+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:38:06.438+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:38:06.451+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:06.451+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:06.465+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:06.465+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:38:06.479+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.055 seconds
+[2024-07-28T02:38:12.518+0000] {processor.py:153} INFO - Started process (PID=1563) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:38:12.520+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:38:12.521+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:12.521+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:38:12.541+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:38:12.555+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:12.554+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:12.570+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:12.570+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:38:12.586+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.069 seconds
+[2024-07-28T02:38:18.556+0000] {processor.py:153} INFO - Started process (PID=1588) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:38:18.556+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:38:18.556+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:18.556+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:38:18.566+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:38:18.579+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:18.579+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:18.594+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:18.594+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:38:18.609+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.056 seconds
+[2024-07-28T02:38:24.558+0000] {processor.py:153} INFO - Started process (PID=1629) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:38:24.559+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:38:24.562+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:24.562+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:38:24.572+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:38:24.588+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:24.588+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:24.602+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:24.602+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:38:24.612+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.056 seconds
+[2024-07-28T02:38:30.664+0000] {processor.py:153} INFO - Started process (PID=1654) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:38:30.665+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:38:30.665+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:30.665+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:38:30.675+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:38:30.688+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:30.687+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:30.701+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:30.701+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:38:30.714+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.052 seconds
+[2024-07-28T02:38:36.727+0000] {processor.py:153} INFO - Started process (PID=1695) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:38:36.728+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:38:36.728+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:36.728+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:38:36.738+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:38:36.752+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:36.752+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:36.766+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:36.766+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:38:36.778+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.053 seconds
+[2024-07-28T02:38:42.938+0000] {processor.py:153} INFO - Started process (PID=1720) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:38:42.939+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:38:42.940+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:42.940+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:38:42.950+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:38:42.966+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:42.966+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:42.979+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:42.979+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:38:42.991+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.054 seconds
+[2024-07-28T02:38:48.011+0000] {processor.py:153} INFO - Started process (PID=1761) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:38:48.012+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:38:48.014+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:48.014+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:38:48.025+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:38:48.042+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:48.042+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:48.057+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:48.057+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:38:48.067+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.059 seconds
+[2024-07-28T02:38:54.079+0000] {processor.py:153} INFO - Started process (PID=1786) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:38:54.080+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:38:54.081+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:54.080+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:38:54.090+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:38:54.105+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:54.104+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:54.119+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:54.118+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:38:54.135+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.057 seconds
+[2024-07-28T02:39:00.016+0000] {processor.py:153} INFO - Started process (PID=1827) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:39:00.017+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:39:00.018+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:00.018+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:39:00.028+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:39:00.042+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:00.041+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:39:00.057+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:00.057+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:39:00.071+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.056 seconds
+[2024-07-28T02:39:06.100+0000] {processor.py:153} INFO - Started process (PID=1852) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:39:06.101+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:39:06.103+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:06.103+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:39:06.113+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:39:06.126+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:06.126+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:39:06.143+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:06.143+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:39:06.155+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.057 seconds
+[2024-07-28T02:39:12.186+0000] {processor.py:153} INFO - Started process (PID=1893) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:39:12.187+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:39:12.188+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:12.188+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:39:12.198+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:39:12.212+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:12.212+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:39:12.226+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:12.225+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:39:12.235+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.051 seconds
+[2024-07-28T02:39:18.197+0000] {processor.py:153} INFO - Started process (PID=1918) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:39:18.198+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:39:18.199+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:18.199+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:39:18.209+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:39:18.225+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:18.225+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:39:18.238+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:18.238+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:39:18.250+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.055 seconds
+[2024-07-28T02:39:24.211+0000] {processor.py:153} INFO - Started process (PID=1959) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:39:24.212+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:39:24.213+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:24.213+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:39:24.224+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:39:24.239+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:24.239+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:39:24.253+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:24.253+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:39:24.263+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.055 seconds
+[2024-07-28T02:39:30.227+0000] {processor.py:153} INFO - Started process (PID=1984) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:39:30.227+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:39:30.228+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:30.228+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:39:30.237+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:39:30.251+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:30.251+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:39:30.266+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:30.265+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:39:30.280+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.055 seconds
+[2024-07-28T02:39:36.228+0000] {processor.py:153} INFO - Started process (PID=2025) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:39:36.229+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:39:36.230+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:36.230+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:39:36.240+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:39:36.252+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:36.252+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:39:36.267+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:36.267+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:39:36.278+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.052 seconds
+[2024-07-28T02:39:42.309+0000] {processor.py:153} INFO - Started process (PID=2066) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:39:42.310+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:39:42.310+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:42.310+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:39:42.324+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:39:42.338+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:42.337+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:39:42.352+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:42.352+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:39:42.366+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.059 seconds
+[2024-07-28T02:39:48.376+0000] {processor.py:153} INFO - Started process (PID=2091) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:39:48.376+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:39:48.377+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:48.376+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:39:48.389+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:39:48.406+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:48.406+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:39:48.421+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:48.420+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:39:48.431+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.057 seconds
+[2024-07-28T02:39:54.651+0000] {processor.py:153} INFO - Started process (PID=2132) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:39:54.652+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:39:54.653+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:54.653+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:39:54.673+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:39:54.691+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:54.691+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:39:54.708+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:54.708+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:39:54.726+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.077 seconds
+[2024-07-28T02:40:00.688+0000] {processor.py:153} INFO - Started process (PID=2157) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:40:00.691+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:40:00.691+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:00.691+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:40:00.701+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:40:00.714+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:00.714+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:40:00.728+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:00.728+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:40:00.742+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.056 seconds
+[2024-07-28T02:40:06.895+0000] {processor.py:153} INFO - Started process (PID=2197) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:40:06.897+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:40:06.897+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:06.897+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:40:06.907+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:40:06.922+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:06.921+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:40:06.935+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:06.935+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:40:06.952+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.058 seconds
+[2024-07-28T02:40:13.116+0000] {processor.py:153} INFO - Started process (PID=2222) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:40:13.118+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:40:13.120+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:13.119+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:40:13.132+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:40:13.150+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:13.150+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:40:13.164+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:13.164+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:40:13.174+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.060 seconds
+[2024-07-28T02:40:19.216+0000] {processor.py:153} INFO - Started process (PID=2263) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:40:19.217+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:40:19.218+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:19.218+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:40:19.229+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:40:19.243+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:19.243+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:40:19.258+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:19.258+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:40:19.274+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.060 seconds
+[2024-07-28T02:40:25.300+0000] {processor.py:153} INFO - Started process (PID=2288) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:40:25.301+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:40:25.302+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:25.302+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:40:25.313+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:40:25.333+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:25.332+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:40:25.348+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:25.348+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:40:25.363+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.065 seconds
+[2024-07-28T02:40:31.335+0000] {processor.py:153} INFO - Started process (PID=2329) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:40:31.337+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:40:31.340+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:31.339+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:40:31.354+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:40:31.376+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:31.376+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:40:31.391+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:31.391+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:40:31.402+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.069 seconds
+[2024-07-28T02:40:37.466+0000] {processor.py:153} INFO - Started process (PID=2354) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:40:37.467+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:40:37.467+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:37.467+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:40:37.477+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:40:37.491+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:37.490+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:40:37.505+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:37.505+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:40:37.515+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.051 seconds
+[2024-07-28T02:40:43.511+0000] {processor.py:153} INFO - Started process (PID=2394) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:40:43.511+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:40:43.512+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:43.512+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:40:43.521+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:40:43.535+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:43.535+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:40:43.551+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:43.551+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:40:43.560+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.051 seconds
+[2024-07-28T02:40:49.614+0000] {processor.py:153} INFO - Started process (PID=2419) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:40:49.615+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:40:49.615+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:49.615+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:40:49.625+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:40:49.642+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:49.642+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:40:49.659+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:49.659+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:40:49.672+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.061 seconds
+[2024-07-28T02:40:55.679+0000] {processor.py:153} INFO - Started process (PID=2460) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:40:55.682+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:40:55.683+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:55.683+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:40:55.694+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:40:55.709+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:55.709+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:40:55.723+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:55.723+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:40:55.737+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.060 seconds
+[2024-07-28T02:41:01.821+0000] {processor.py:153} INFO - Started process (PID=2501) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:41:01.822+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:41:01.823+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:01.823+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:41:01.836+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:41:01.858+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:01.858+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:41:01.875+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:01.875+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:41:01.889+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.072 seconds
+[2024-07-28T02:41:07.029+0000] {processor.py:153} INFO - Started process (PID=2526) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:41:07.030+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:41:07.030+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:07.030+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:41:07.040+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:41:07.059+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:07.059+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:41:07.074+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:07.074+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:41:07.089+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.062 seconds
+[2024-07-28T02:41:12.205+0000] {processor.py:153} INFO - Started process (PID=2551) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:41:12.206+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:41:12.207+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:12.207+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:41:12.217+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:41:12.232+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:12.232+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:41:12.249+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:12.249+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:41:12.261+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.057 seconds
+[2024-07-28T02:41:18.150+0000] {processor.py:153} INFO - Started process (PID=2592) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:41:18.151+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:41:18.152+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:18.152+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:41:18.164+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:41:18.177+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:18.177+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:41:18.191+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:18.190+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:41:18.201+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.053 seconds
+[2024-07-28T02:41:24.275+0000] {processor.py:153} INFO - Started process (PID=2633) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:41:24.276+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:41:24.276+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:24.276+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:41:24.289+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:41:24.302+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:24.302+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:41:24.317+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:24.317+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:41:24.335+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.063 seconds
+[2024-07-28T02:41:30.364+0000] {processor.py:153} INFO - Started process (PID=2658) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:41:30.364+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:41:30.366+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:30.366+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:41:30.378+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:41:30.392+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:30.392+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:41:30.411+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:30.411+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:41:30.422+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.061 seconds
+[2024-07-28T02:41:36.503+0000] {processor.py:153} INFO - Started process (PID=2699) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:41:36.503+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:41:36.504+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:36.504+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:41:36.516+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:41:36.530+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:36.530+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:41:36.544+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:36.544+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:41:36.558+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.057 seconds
+[2024-07-28T02:41:42.519+0000] {processor.py:153} INFO - Started process (PID=2724) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:41:42.520+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:41:42.520+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:42.520+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:41:42.530+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:41:42.543+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:42.543+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:41:42.557+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:42.557+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:41:42.573+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.055 seconds
+[2024-07-28T02:41:48.531+0000] {processor.py:153} INFO - Started process (PID=2765) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:41:48.531+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:41:48.532+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:48.532+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:41:48.542+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:41:48.557+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:48.557+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:41:48.572+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:48.572+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:41:48.584+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.055 seconds
+[2024-07-28T02:41:54.580+0000] {processor.py:153} INFO - Started process (PID=2790) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:41:54.582+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:41:54.583+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:54.583+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:41:54.596+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:41:54.610+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:54.610+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:41:54.625+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:54.625+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:41:54.637+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.060 seconds
+[2024-07-28T02:42:00.575+0000] {processor.py:153} INFO - Started process (PID=2831) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:42:00.575+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:42:00.578+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:00.578+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:42:00.587+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:42:00.600+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:00.600+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:42:00.613+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:00.612+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:42:00.623+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.051 seconds
+[2024-07-28T02:42:06.705+0000] {processor.py:153} INFO - Started process (PID=2856) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:42:06.706+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:42:06.707+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:06.707+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:42:06.720+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:42:06.739+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:06.739+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:42:06.757+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:06.757+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:42:06.773+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.071 seconds
+[2024-07-28T02:42:12.801+0000] {processor.py:153} INFO - Started process (PID=2896) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:42:12.802+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:42:12.803+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:12.803+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:42:12.814+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:42:12.828+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:12.828+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:42:12.842+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:12.842+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:42:12.854+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.055 seconds
+[2024-07-28T02:42:18.762+0000] {processor.py:153} INFO - Started process (PID=2921) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:42:18.763+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:42:18.763+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:18.763+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:42:18.775+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:42:18.792+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:18.792+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:42:18.807+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:18.807+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:42:18.823+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.063 seconds
+[2024-07-28T02:42:24.711+0000] {processor.py:153} INFO - Started process (PID=2962) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:42:24.713+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:42:24.716+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:24.716+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:42:24.726+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:42:24.741+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:24.740+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:42:24.754+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:24.754+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:42:24.767+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.057 seconds
+[2024-07-28T02:42:30.746+0000] {processor.py:153} INFO - Started process (PID=2987) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:42:30.746+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:42:30.747+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:30.747+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:42:30.756+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:42:30.773+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:30.773+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:42:30.788+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:30.788+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:42:30.799+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.056 seconds
+[2024-07-28T02:42:36.759+0000] {processor.py:153} INFO - Started process (PID=3027) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:42:36.763+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:42:36.763+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:36.763+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:42:36.773+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:42:36.786+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:36.786+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:42:36.801+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:36.801+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:42:36.817+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.061 seconds
+[2024-07-28T02:42:42.687+0000] {processor.py:153} INFO - Started process (PID=3061) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:42:42.688+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:42:42.688+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:42.688+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:42:42.702+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:42:42.719+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:42.719+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:42:42.735+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:42.735+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:42:42.747+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.062 seconds
+[2024-07-28T02:42:48.811+0000] {processor.py:153} INFO - Started process (PID=3093) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:42:48.812+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:42:48.812+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:48.812+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:42:48.822+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:42:48.836+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:48.835+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:42:48.850+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:48.849+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:42:48.864+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.055 seconds
+[2024-07-28T02:42:55.035+0000] {processor.py:153} INFO - Started process (PID=3134) to work on /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:42:55.037+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_defaultargs.py for tasks to queue
+[2024-07-28T02:42:55.038+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:55.038+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:42:55.050+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_defaultargs']) retrieved from /opt/airflow/dags/exemplo_defaultargs.py
+[2024-07-28T02:42:55.069+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:55.069+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:42:55.088+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:55.088+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_defaultargs to 2024-07-28T02:00:00+00:00, run_after=2024-07-28T03:00:00+00:00
+[2024-07-28T02:42:55.101+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_defaultargs.py took 0.068 seconds

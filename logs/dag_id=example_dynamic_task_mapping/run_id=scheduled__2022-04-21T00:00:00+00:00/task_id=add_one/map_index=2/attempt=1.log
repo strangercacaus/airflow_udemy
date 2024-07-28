@@ -1,0 +1,14 @@
+[2024-07-22T02:31:36.902+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: example_dynamic_task_mapping.add_one scheduled__2022-04-21T00:00:00+00:00 map_index=2 [queued]>
+[2024-07-22T02:31:36.929+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: example_dynamic_task_mapping.add_one scheduled__2022-04-21T00:00:00+00:00 map_index=2 [queued]>
+[2024-07-22T02:31:36.935+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-22T02:31:36.949+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 1
+[2024-07-22T02:31:36.953+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-22T02:31:36.992+0000] {taskinstance.py:1300} INFO - Executing <Mapped(_PythonDecoratedOperator): add_one> on 2022-04-21 00:00:00+00:00
+[2024-07-22T02:31:37.020+0000] {standard_task_runner.py:55} INFO - Started process 911 to run task
+[2024-07-22T02:31:37.039+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'example_dynamic_task_mapping', 'add_one', 'scheduled__2022-04-21T00:00:00+00:00', '--job-id', '207', '--raw', '--subdir', '/home/***/.local/lib/python3.7/site-packages/***/example_dags/example_dynamic_task_mapping.py', '--cfg-path', '/tmp/tmp73zklvjv', '--map-index', '2']
+[2024-07-22T02:31:37.045+0000] {standard_task_runner.py:83} INFO - Job 207: Subtask add_one
+[2024-07-22T02:31:37.414+0000] {standard_task_runner.py:105} ERROR - Failed to execute job 207 for task add_one ([Errno 2] No such file or directory: '/opt/airflow/logs/dag_id=example_dynamic_task_mapping/run_id=scheduled__2022-04-21T00:00:00+00:00/task_id=add_one/map_index=2/attempt=1.log'; 911)
+[2024-07-22T02:31:37.441+0000] {local_task_job.py:208} INFO - Task exited with return code 1
+[2024-07-22T02:31:37.894+0000] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check

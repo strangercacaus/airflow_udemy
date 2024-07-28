@@ -1,0 +1,26 @@
+[2024-07-27T03:10:15.537+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: exemplo_branch.branch manual__2024-07-27T03:10:13.740901+00:00 [queued]>
+[2024-07-27T03:10:15.547+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: exemplo_branch.branch manual__2024-07-27T03:10:13.740901+00:00 [queued]>
+[2024-07-27T03:10:15.547+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-27T03:10:15.547+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 1
+[2024-07-27T03:10:15.548+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-27T03:10:15.556+0000] {taskinstance.py:1300} INFO - Executing <Task(BranchPythonOperator): branch> on 2024-07-27 03:10:13.740901+00:00
+[2024-07-27T03:10:15.560+0000] {standard_task_runner.py:55} INFO - Started process 80181 to run task
+[2024-07-27T03:10:15.563+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'exemplo_branch', 'branch', 'manual__2024-07-27T03:10:13.740901+00:00', '--job-id', '1768', '--raw', '--subdir', 'DAGS_FOLDER/__pycache__/exemplo_branch.py', '--cfg-path', '/tmp/tmpese7e34h']
+[2024-07-27T03:10:15.563+0000] {standard_task_runner.py:83} INFO - Job 1768: Subtask branch
+[2024-07-27T03:10:15.599+0000] {task_command.py:388} INFO - Running <TaskInstance: exemplo_branch.branch manual__2024-07-27T03:10:13.740901+00:00 [running]> on host 029011c5aea1
+[2024-07-27T03:10:15.640+0000] {taskinstance.py:1509} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=exemplo_branch
+AIRFLOW_CTX_TASK_ID=branch
+AIRFLOW_CTX_EXECUTION_DATE=2024-07-27T03:10:13.740901+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2024-07-27T03:10:13.740901+00:00
+[2024-07-27T03:10:15.648+0000] {python.py:177} INFO - Done. Returned value was: odd
+[2024-07-27T03:10:15.649+0000] {python.py:211} INFO - Branch callable return odd
+[2024-07-27T03:10:15.649+0000] {skipmixin.py:155} INFO - Following branch odd
+[2024-07-27T03:10:15.649+0000] {skipmixin.py:211} INFO - Skipping tasks ['even']
+[2024-07-27T03:10:15.670+0000] {taskinstance.py:1323} INFO - Marking task as SUCCESS. dag_id=exemplo_branch, task_id=branch, execution_date=20240727T031013, start_date=20240727T031015, end_date=20240727T031015
+[2024-07-27T03:10:15.702+0000] {local_task_job.py:208} INFO - Task exited with return code 0
+[2024-07-27T03:10:15.720+0000] {taskinstance.py:2578} INFO - 1 downstream tasks scheduled from follow-on schedule check

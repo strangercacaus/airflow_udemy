@@ -1,0 +1,18 @@
+[2024-07-23T03:31:58.021+0000] {processor.py:153} INFO - Started process (PID=12398) to work on /opt/airflow/dags/exemplo_dag_complexa copy.py
+[2024-07-23T03:31:58.022+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_dag_complexa copy.py for tasks to queue
+[2024-07-23T03:31:58.024+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:31:58.023+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_dag_complexa copy.py
+[2024-07-23T03:31:58.035+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:31:58.032+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/exemplo_dag_complexa copy.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/exemplo_dag_complexa copy.py", line 11, in <module>
+    catchup=False)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dag.py", line 443, in __init__
+    validate_key(dag_id)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/helpers.py", line 56, in validate_key
+    f"The key {k!r} has to be made of alphanumeric characters, dashes, "
+airflow.exceptions.AirflowException: The key 'exemplo_dag_complexa copy' has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2024-07-23T03:31:58.035+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/exemplo_dag_complexa copy.py
+[2024-07-23T03:31:58.050+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_dag_complexa copy.py took 0.031 seconds

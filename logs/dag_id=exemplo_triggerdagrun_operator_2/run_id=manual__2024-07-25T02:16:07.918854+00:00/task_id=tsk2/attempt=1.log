@@ -1,0 +1,27 @@
+[2024-07-25T02:16:18.820+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: exemplo_triggerdagrun_operator_2.tsk2 manual__2024-07-25T02:16:07.918854+00:00 [queued]>
+[2024-07-25T02:16:18.845+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: exemplo_triggerdagrun_operator_2.tsk2 manual__2024-07-25T02:16:07.918854+00:00 [queued]>
+[2024-07-25T02:16:18.847+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-25T02:16:18.848+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 1
+[2024-07-25T02:16:18.848+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-25T02:16:18.910+0000] {taskinstance.py:1300} INFO - Executing <Task(BashOperator): tsk2> on 2024-07-25 02:16:07.918854+00:00
+[2024-07-25T02:16:18.915+0000] {standard_task_runner.py:55} INFO - Started process 31155 to run task
+[2024-07-25T02:16:18.919+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'exemplo_triggerdagrun_operator_2', 'tsk2', 'manual__2024-07-25T02:16:07.918854+00:00', '--job-id', '1376', '--raw', '--subdir', 'DAGS_FOLDER/exemplo_triggerdagrun_operator_2.py', '--cfg-path', '/tmp/tmpipdgpnua']
+[2024-07-25T02:16:18.923+0000] {standard_task_runner.py:83} INFO - Job 1376: Subtask tsk2
+[2024-07-25T02:16:19.029+0000] {task_command.py:388} INFO - Running <TaskInstance: exemplo_triggerdagrun_operator_2.tsk2 manual__2024-07-25T02:16:07.918854+00:00 [running]> on host 448a9c84d52e
+[2024-07-25T02:16:19.141+0000] {taskinstance.py:1509} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=exemplo_triggerdagrun_operator_2
+AIRFLOW_CTX_TASK_ID=tsk2
+AIRFLOW_CTX_EXECUTION_DATE=2024-07-25T02:16:07.918854+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2024-07-25T02:16:07.918854+00:00
+[2024-07-25T02:16:19.145+0000] {subprocess.py:63} INFO - Tmp dir root location: 
+ /tmp
+[2024-07-25T02:16:19.146+0000] {subprocess.py:75} INFO - Running command: ['/bin/bash', '-c', 'sleep 5']
+[2024-07-25T02:16:19.160+0000] {subprocess.py:86} INFO - Output:
+[2024-07-25T02:16:24.174+0000] {subprocess.py:97} INFO - Command exited with return code 0
+[2024-07-25T02:16:24.215+0000] {taskinstance.py:1323} INFO - Marking task as SUCCESS. dag_id=exemplo_triggerdagrun_operator_2, task_id=tsk2, execution_date=20240725T021607, start_date=20240725T021618, end_date=20240725T021624
+[2024-07-25T02:16:24.248+0000] {local_task_job.py:208} INFO - Task exited with return code 0
+[2024-07-25T02:16:24.272+0000] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check

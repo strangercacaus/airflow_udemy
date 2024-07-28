@@ -1,0 +1,14 @@
+[2024-07-22T02:34:24.131+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: example_sla_dag.sleep_30 scheduled__2024-07-22T02:32:00+00:00 [queued]>
+[2024-07-22T02:34:24.163+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: example_sla_dag.sleep_30 scheduled__2024-07-22T02:32:00+00:00 [queued]>
+[2024-07-22T02:34:24.163+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-22T02:34:24.170+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 1
+[2024-07-22T02:34:24.172+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-22T02:34:24.204+0000] {taskinstance.py:1300} INFO - Executing <Task(_PythonDecoratedOperator): sleep_30> on 2024-07-22 02:32:00+00:00
+[2024-07-22T02:34:24.216+0000] {standard_task_runner.py:55} INFO - Started process 2457 to run task
+[2024-07-22T02:34:24.296+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'example_sla_dag', 'sleep_30', 'scheduled__2024-07-22T02:32:00+00:00', '--job-id', '850', '--raw', '--subdir', '/home/***/.local/lib/python3.7/site-packages/***/example_dags/example_sla_dag.py', '--cfg-path', '/tmp/tmpbaroidfl']
+[2024-07-22T02:34:24.305+0000] {standard_task_runner.py:83} INFO - Job 850: Subtask sleep_30
+[2024-07-22T02:34:24.538+0000] {standard_task_runner.py:105} ERROR - Failed to execute job 850 for task sleep_30 ([Errno 2] No such file or directory: '/opt/airflow/logs/dag_id=example_sla_dag/run_id=scheduled__2024-07-22T02:32:00+00:00/task_id=sleep_30/attempt=1.log'; 2457)
+[2024-07-22T02:34:24.690+0000] {local_task_job.py:208} INFO - Task exited with return code 1
+[2024-07-22T02:34:24.815+0000] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check

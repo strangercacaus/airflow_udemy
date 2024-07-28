@@ -1,0 +1,7 @@
+[2024-07-23T03:07:11.737+0000] {processor.py:153} INFO - Started process (PID=8024) to work on /opt/airflow/dags/dag_paralelismo.py
+[2024-07-23T03:07:11.738+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/dag_paralelismo.py for tasks to queue
+[2024-07-23T03:07:11.738+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:11.738+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag_paralelismo.py
+[2024-07-23T03:07:11.753+0000] {processor.py:753} INFO - DAG(s) dict_keys(['segunda_dag']) retrieved from /opt/airflow/dags/dag_paralelismo.py
+[2024-07-23T03:07:11.786+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:11.785+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-23T03:07:11.798+0000] {logging_mixin.py:137} INFO - [2024-07-23T03:07:11.798+0000] {dag.py:3441} INFO - Setting next_dagrun for segunda_dag to None, run_after=None
+[2024-07-23T03:07:11.817+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/dag_paralelismo.py took 0.082 seconds

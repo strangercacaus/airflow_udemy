@@ -1,0 +1,768 @@
+[2024-07-28T02:33:06.242+0000] {processor.py:153} INFO - Started process (PID=43) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:33:06.245+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:33:06.250+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:06.249+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:33:06.283+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:33:06.303+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:33:06.426+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:06.426+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:33:06.449+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:06.449+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:33:06.466+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.233 seconds
+[2024-07-28T02:33:11.577+0000] {processor.py:153} INFO - Started process (PID=83) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:33:11.578+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:33:11.578+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:11.578+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:33:11.588+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:33:11.592+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:33:11.599+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:11.599+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:33:11.612+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:11.612+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:33:11.622+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.048 seconds
+[2024-07-28T02:33:17.680+0000] {processor.py:153} INFO - Started process (PID=112) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:33:17.681+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:33:17.681+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:17.681+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:33:17.688+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:33:17.692+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:33:17.699+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:17.698+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:33:17.711+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:17.711+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:33:17.720+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.042 seconds
+[2024-07-28T02:33:45.107+0000] {processor.py:153} INFO - Started process (PID=47) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:33:45.107+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:33:45.108+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:45.108+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:33:45.122+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:33:45.133+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:33:45.209+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:45.209+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:33:45.224+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:45.224+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:33:45.246+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.140 seconds
+[2024-07-28T02:33:50.982+0000] {processor.py:153} INFO - Started process (PID=72) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:33:50.982+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:33:50.983+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:50.983+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:33:50.989+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:33:50.993+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:33:51.000+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:51.000+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:33:51.013+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:51.013+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:33:51.023+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.043 seconds
+[2024-07-28T02:33:56.974+0000] {processor.py:153} INFO - Started process (PID=114) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:33:56.974+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:33:56.975+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:56.974+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:33:56.981+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:33:56.985+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:33:56.991+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:56.991+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:33:57.005+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:33:57.005+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:33:57.014+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.042 seconds
+[2024-07-28T02:34:02.392+0000] {processor.py:153} INFO - Started process (PID=137) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:34:02.392+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:34:02.393+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:02.393+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:34:02.399+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:34:02.403+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:34:02.410+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:02.410+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:34:02.425+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:02.425+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:34:02.434+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.044 seconds
+[2024-07-28T02:34:08.569+0000] {processor.py:153} INFO - Started process (PID=179) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:34:08.572+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:34:08.572+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:08.572+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:34:08.582+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:34:08.585+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:34:08.592+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:08.592+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:34:08.606+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:08.606+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:34:08.615+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.048 seconds
+[2024-07-28T02:34:14.530+0000] {processor.py:153} INFO - Started process (PID=214) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:34:14.533+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:34:14.542+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:14.542+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:34:14.581+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:34:14.585+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:34:14.603+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:14.603+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:34:14.633+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:14.633+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:34:14.648+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.119 seconds
+[2024-07-28T02:34:19.701+0000] {processor.py:153} INFO - Started process (PID=244) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:34:19.704+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:34:19.705+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:19.705+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:34:19.714+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:34:19.718+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:34:19.740+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:19.739+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:34:19.754+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:19.754+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:34:19.763+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.064 seconds
+[2024-07-28T02:34:25.892+0000] {processor.py:153} INFO - Started process (PID=278) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:34:25.893+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:34:25.893+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:25.893+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:34:25.900+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:34:25.904+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:34:25.918+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:25.918+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:34:25.931+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:25.931+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:34:25.954+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.064 seconds
+[2024-07-28T02:34:31.309+0000] {processor.py:153} INFO - Started process (PID=310) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:34:31.309+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:34:31.310+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:31.310+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:34:31.317+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:34:31.320+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:34:31.333+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:31.333+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:34:31.346+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:31.346+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:34:31.355+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.048 seconds
+[2024-07-28T02:34:36.491+0000] {processor.py:153} INFO - Started process (PID=335) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:34:36.492+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:34:36.493+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:36.493+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:34:36.503+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:34:36.510+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:34:36.529+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:36.529+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:34:36.545+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:36.545+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:34:36.561+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.072 seconds
+[2024-07-28T02:34:42.598+0000] {processor.py:153} INFO - Started process (PID=376) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:34:42.602+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:34:42.602+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:42.602+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:34:42.614+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:34:42.618+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:34:42.630+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:42.630+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:34:42.643+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:42.643+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:34:42.653+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.056 seconds
+[2024-07-28T02:34:48.721+0000] {processor.py:153} INFO - Started process (PID=410) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:34:48.722+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:34:48.722+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:48.722+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:34:48.733+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:34:48.737+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:34:48.752+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:48.752+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:34:48.767+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:48.767+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:34:48.777+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.058 seconds
+[2024-07-28T02:34:54.210+0000] {processor.py:153} INFO - Started process (PID=442) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:34:54.213+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:34:54.217+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:54.217+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:34:54.225+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:34:54.228+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:34:54.242+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:54.242+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:34:54.255+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:34:54.255+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:34:54.264+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.056 seconds
+[2024-07-28T02:35:00.416+0000] {processor.py:153} INFO - Started process (PID=484) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:35:00.416+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:35:00.417+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:00.417+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:35:00.425+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:35:00.430+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:35:00.446+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:00.446+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:35:00.461+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:00.461+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:35:00.474+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.060 seconds
+[2024-07-28T02:35:05.811+0000] {processor.py:153} INFO - Started process (PID=508) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:35:05.814+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:35:05.816+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:05.816+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:35:05.838+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:35:05.870+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:35:05.889+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:05.889+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:35:05.903+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:05.903+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:35:05.912+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.104 seconds
+[2024-07-28T02:35:12.119+0000] {processor.py:153} INFO - Started process (PID=549) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:35:12.120+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:35:12.120+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:12.120+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:35:12.129+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:35:12.133+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:35:12.147+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:12.147+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:35:12.161+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:12.161+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:35:12.171+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.054 seconds
+[2024-07-28T02:35:18.237+0000] {processor.py:153} INFO - Started process (PID=575) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:35:18.237+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:35:18.238+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:18.238+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:35:18.245+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:35:18.248+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:35:18.261+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:18.261+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:35:18.273+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:18.273+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:35:18.282+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.047 seconds
+[2024-07-28T02:35:24.285+0000] {processor.py:153} INFO - Started process (PID=616) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:35:24.285+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:35:24.286+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:24.286+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:35:24.293+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:35:24.297+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:35:24.309+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:24.309+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:35:24.322+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:24.322+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:35:24.332+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.049 seconds
+[2024-07-28T02:35:30.356+0000] {processor.py:153} INFO - Started process (PID=640) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:35:30.356+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:35:30.357+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:30.357+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:35:30.364+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:35:30.368+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:35:30.388+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:30.388+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:35:30.401+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:30.401+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:35:30.411+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.057 seconds
+[2024-07-28T02:35:36.417+0000] {processor.py:153} INFO - Started process (PID=682) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:35:36.418+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:35:36.418+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:36.418+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:35:36.425+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:35:36.429+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:35:36.443+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:36.443+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:35:36.469+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:36.468+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:35:36.481+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.065 seconds
+[2024-07-28T02:35:42.483+0000] {processor.py:153} INFO - Started process (PID=707) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:35:42.484+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:35:42.485+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:42.484+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:35:42.492+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:35:42.495+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:35:42.510+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:42.510+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:35:42.524+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:42.524+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:35:42.534+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.053 seconds
+[2024-07-28T02:35:48.577+0000] {processor.py:153} INFO - Started process (PID=748) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:35:48.577+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:35:48.578+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:48.578+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:35:48.584+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:35:48.588+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:35:48.601+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:48.601+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:35:48.613+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:48.613+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:35:48.622+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.047 seconds
+[2024-07-28T02:35:54.557+0000] {processor.py:153} INFO - Started process (PID=772) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:35:54.560+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:35:54.561+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:54.561+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:35:54.570+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:35:54.573+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:35:54.588+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:54.588+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:35:54.601+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:35:54.600+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:35:54.610+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.054 seconds
+[2024-07-28T02:36:00.740+0000] {processor.py:153} INFO - Started process (PID=814) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:36:00.741+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:36:00.741+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:00.741+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:36:00.748+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:36:00.752+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:36:00.765+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:00.765+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:36:00.776+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:00.776+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:36:00.785+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.047 seconds
+[2024-07-28T02:36:06.700+0000] {processor.py:153} INFO - Started process (PID=838) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:36:06.700+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:36:06.701+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:06.701+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:36:06.708+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:36:06.721+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:36:06.733+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:06.733+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:36:06.746+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:06.746+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:36:06.756+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.058 seconds
+[2024-07-28T02:36:12.825+0000] {processor.py:153} INFO - Started process (PID=880) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:36:12.826+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:36:12.827+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:12.826+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:36:12.833+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:36:12.837+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:36:12.850+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:12.850+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:36:12.863+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:12.863+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:36:12.871+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.048 seconds
+[2024-07-28T02:36:18.807+0000] {processor.py:153} INFO - Started process (PID=911) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:36:18.807+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:36:18.808+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:18.808+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:36:18.815+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:36:18.820+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:36:18.835+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:18.835+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:36:18.846+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:18.846+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:36:18.856+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.051 seconds
+[2024-07-28T02:36:24.993+0000] {processor.py:153} INFO - Started process (PID=945) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:36:24.994+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:36:24.995+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:24.995+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:36:25.002+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:36:25.007+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:36:25.021+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:25.021+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:36:25.033+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:25.033+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:36:25.042+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.051 seconds
+[2024-07-28T02:36:31.032+0000] {processor.py:153} INFO - Started process (PID=987) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:36:31.033+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:36:31.033+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:31.033+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:36:31.040+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:36:31.044+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:36:31.059+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:31.059+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:36:31.073+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:31.073+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:36:31.084+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.054 seconds
+[2024-07-28T02:36:37.134+0000] {processor.py:153} INFO - Started process (PID=1012) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:36:37.135+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:36:37.136+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:37.136+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:36:37.143+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:36:37.146+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:36:37.159+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:37.159+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:36:37.174+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:37.174+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:36:37.182+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.050 seconds
+[2024-07-28T02:36:43.193+0000] {processor.py:153} INFO - Started process (PID=1053) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:36:43.194+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:36:43.194+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:43.194+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:36:43.201+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:36:43.204+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:36:43.217+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:43.217+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:36:43.229+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:43.229+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:36:43.238+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.047 seconds
+[2024-07-28T02:36:49.315+0000] {processor.py:153} INFO - Started process (PID=1078) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:36:49.315+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:36:49.316+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:49.316+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:36:49.323+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:36:49.327+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:36:49.341+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:49.341+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:36:49.354+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:49.354+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:36:49.364+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.051 seconds
+[2024-07-28T02:36:55.324+0000] {processor.py:153} INFO - Started process (PID=1118) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:36:55.325+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:36:55.325+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:55.325+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:36:55.333+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:36:55.337+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:36:55.349+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:55.349+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:36:55.360+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:36:55.360+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:36:55.369+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.047 seconds
+[2024-07-28T02:37:01.349+0000] {processor.py:153} INFO - Started process (PID=1143) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:37:01.353+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:37:01.353+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:01.353+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:37:01.362+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:37:01.365+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:37:01.378+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:01.378+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:37:01.390+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:01.390+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:37:01.401+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.054 seconds
+[2024-07-28T02:37:07.500+0000] {processor.py:153} INFO - Started process (PID=1184) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:37:07.504+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:37:07.506+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:07.506+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:37:07.520+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:37:07.525+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:37:07.542+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:07.542+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:37:07.557+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:07.557+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:37:07.567+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.069 seconds
+[2024-07-28T02:37:12.695+0000] {processor.py:153} INFO - Started process (PID=1208) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:37:12.696+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:37:12.696+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:12.696+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:37:12.702+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:37:12.706+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:37:12.718+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:12.718+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:37:12.738+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:12.737+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:37:12.753+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.060 seconds
+[2024-07-28T02:37:18.773+0000] {processor.py:153} INFO - Started process (PID=1250) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:37:18.773+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:37:18.774+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:18.774+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:37:18.781+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:37:18.784+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:37:18.797+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:18.797+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:37:18.809+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:18.809+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:37:18.818+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.047 seconds
+[2024-07-28T02:37:24.707+0000] {processor.py:153} INFO - Started process (PID=1275) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:37:24.708+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:37:24.708+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:24.708+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:37:24.717+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:37:24.721+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:37:24.734+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:24.734+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:37:24.747+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:24.747+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:37:24.755+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.049 seconds
+[2024-07-28T02:37:30.722+0000] {processor.py:153} INFO - Started process (PID=1316) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:37:30.723+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:37:30.723+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:30.723+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:37:30.731+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:37:30.735+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:37:30.748+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:30.748+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:37:30.763+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:30.763+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:37:30.776+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.055 seconds
+[2024-07-28T02:37:36.711+0000] {processor.py:153} INFO - Started process (PID=1342) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:37:36.712+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:37:36.712+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:36.712+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:37:36.719+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:37:36.723+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:37:36.735+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:36.735+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:37:36.747+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:36.747+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:37:36.756+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.046 seconds
+[2024-07-28T02:37:42.727+0000] {processor.py:153} INFO - Started process (PID=1383) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:37:42.728+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:37:42.728+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:42.728+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:37:42.735+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:37:42.738+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:37:42.752+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:42.752+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:37:42.765+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:42.764+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:37:42.774+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.048 seconds
+[2024-07-28T02:37:48.659+0000] {processor.py:153} INFO - Started process (PID=1413) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:37:48.659+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:37:48.659+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:48.659+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:37:48.670+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:37:48.673+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:37:48.686+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:48.685+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:37:48.698+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:48.697+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:37:48.707+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.050 seconds
+[2024-07-28T02:37:54.671+0000] {processor.py:153} INFO - Started process (PID=1449) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:37:54.674+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:37:54.674+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:54.674+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:37:54.681+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:37:54.685+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:37:54.697+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:54.697+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:37:54.708+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:37:54.708+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:37:54.718+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.049 seconds
+[2024-07-28T02:38:00.807+0000] {processor.py:153} INFO - Started process (PID=1489) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:00.808+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:38:00.808+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:00.808+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:00.822+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:38:00.828+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:00.847+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:00.847+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:00.863+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:00.863+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:38:00.877+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.072 seconds
+[2024-07-28T02:38:06.083+0000] {processor.py:153} INFO - Started process (PID=1514) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:06.086+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:38:06.087+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:06.087+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:06.096+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:38:06.099+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:06.112+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:06.112+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:06.125+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:06.125+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:38:06.134+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.053 seconds
+[2024-07-28T02:38:12.240+0000] {processor.py:153} INFO - Started process (PID=1556) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:12.240+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:38:12.240+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:12.240+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:12.247+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:38:12.251+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:12.265+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:12.265+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:12.281+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:12.281+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:38:12.293+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.055 seconds
+[2024-07-28T02:38:18.258+0000] {processor.py:153} INFO - Started process (PID=1580) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:18.258+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:38:18.259+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:18.259+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:18.266+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:38:18.269+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:18.283+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:18.283+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:18.295+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:18.295+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:38:18.304+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.049 seconds
+[2024-07-28T02:38:24.296+0000] {processor.py:153} INFO - Started process (PID=1622) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:24.296+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:38:24.297+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:24.297+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:24.303+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:38:24.307+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:24.320+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:24.320+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:24.332+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:24.332+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:38:24.341+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.047 seconds
+[2024-07-28T02:38:30.322+0000] {processor.py:153} INFO - Started process (PID=1647) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:30.330+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:38:30.331+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:30.331+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:30.345+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:38:30.349+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:30.363+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:30.363+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:30.378+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:30.378+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:38:30.390+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.071 seconds
+[2024-07-28T02:38:36.352+0000] {processor.py:153} INFO - Started process (PID=1687) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:36.353+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:38:36.354+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:36.354+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:36.372+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:38:36.376+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:36.391+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:36.390+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:36.405+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:36.405+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:38:36.414+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.064 seconds
+[2024-07-28T02:38:42.421+0000] {processor.py:153} INFO - Started process (PID=1712) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:42.422+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:38:42.422+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:42.422+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:42.432+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:38:42.437+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:42.454+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:42.454+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:42.471+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:42.471+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:38:42.488+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.069 seconds
+[2024-07-28T02:38:47.645+0000] {processor.py:153} INFO - Started process (PID=1752) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:47.645+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:38:47.646+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:47.646+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:47.653+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:38:47.656+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:47.669+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:47.669+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:47.682+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:47.681+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:38:47.691+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.048 seconds
+[2024-07-28T02:38:53.737+0000] {processor.py:153} INFO - Started process (PID=1778) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:53.740+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:38:53.741+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:53.741+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:53.750+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:38:53.753+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:53.765+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:53.765+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:53.778+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:53.778+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:38:53.787+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.052 seconds
+[2024-07-28T02:38:59.709+0000] {processor.py:153} INFO - Started process (PID=1820) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:59.710+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:38:59.710+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:59.710+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:59.717+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:38:59.720+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:38:59.735+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:59.734+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:38:59.748+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:38:59.748+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:38:59.756+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.049 seconds
+[2024-07-28T02:39:05.734+0000] {processor.py:153} INFO - Started process (PID=1844) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:39:05.735+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:39:05.735+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:05.735+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:39:05.746+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:39:05.750+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:39:05.764+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:05.764+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:39:05.779+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:05.779+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:39:05.790+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.058 seconds
+[2024-07-28T02:39:11.884+0000] {processor.py:153} INFO - Started process (PID=1885) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:39:11.886+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:39:11.887+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:11.887+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:39:11.896+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:39:11.900+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:39:11.913+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:11.913+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:39:11.925+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:11.925+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:39:11.935+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.053 seconds
+[2024-07-28T02:39:17.908+0000] {processor.py:153} INFO - Started process (PID=1911) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:39:17.909+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:39:17.910+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:17.910+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:39:17.918+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:39:17.922+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:39:17.935+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:17.935+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:39:17.947+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:17.947+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:39:17.957+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.050 seconds
+[2024-07-28T02:39:23.900+0000] {processor.py:153} INFO - Started process (PID=1951) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:39:23.900+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:39:23.901+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:23.901+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:39:23.908+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:39:23.912+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:39:23.926+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:23.926+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:39:23.940+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:23.940+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:39:23.950+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.052 seconds
+[2024-07-28T02:39:29.926+0000] {processor.py:153} INFO - Started process (PID=1976) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:39:29.927+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:39:29.927+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:29.927+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:39:29.936+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:39:29.940+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:39:29.954+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:29.954+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:39:29.967+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:29.967+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:39:29.978+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.054 seconds
+[2024-07-28T02:39:35.930+0000] {processor.py:153} INFO - Started process (PID=2017) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:39:35.932+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:39:35.933+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:35.933+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:39:35.942+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:39:35.946+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:39:35.958+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:35.958+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:39:35.970+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:35.970+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:39:35.979+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.052 seconds
+[2024-07-28T02:39:41.948+0000] {processor.py:153} INFO - Started process (PID=2051) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:39:41.952+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:39:41.953+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:41.953+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:39:41.964+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:39:41.968+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:39:41.981+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:41.981+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:39:41.994+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:41.994+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:39:42.004+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.058 seconds
+[2024-07-28T02:39:48.096+0000] {processor.py:153} INFO - Started process (PID=2084) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:39:48.097+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:39:48.097+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:48.097+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:39:48.104+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:39:48.108+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:39:48.120+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:48.120+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:39:48.132+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:48.132+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:39:48.141+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.046 seconds
+[2024-07-28T02:39:54.242+0000] {processor.py:153} INFO - Started process (PID=2125) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:39:54.243+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:39:54.243+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:54.243+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:39:54.252+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:39:54.256+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:39:54.273+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:54.273+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:39:54.292+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:39:54.292+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:39:54.303+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.064 seconds
+[2024-07-28T02:40:00.367+0000] {processor.py:153} INFO - Started process (PID=2149) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:40:00.367+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:40:00.369+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:00.369+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:40:00.377+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:40:00.381+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:40:00.394+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:00.394+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:40:00.408+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:00.408+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:40:00.417+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.052 seconds
+[2024-07-28T02:40:06.552+0000] {processor.py:153} INFO - Started process (PID=2189) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:40:06.557+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:40:06.559+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:06.559+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:40:06.567+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:40:06.571+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:40:06.588+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:06.588+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:40:06.602+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:06.602+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:40:06.612+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.062 seconds
+[2024-07-28T02:40:12.737+0000] {processor.py:153} INFO - Started process (PID=2214) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:40:12.737+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:40:12.738+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:12.738+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:40:12.746+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:40:12.750+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:40:12.791+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:12.791+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:40:12.805+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:12.805+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:40:12.816+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.081 seconds
+[2024-07-28T02:40:18.826+0000] {processor.py:153} INFO - Started process (PID=2255) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:40:18.827+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:40:18.827+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:18.827+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:40:18.836+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:40:18.841+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:40:18.860+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:18.860+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:40:18.873+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:18.873+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:40:18.885+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.061 seconds
+[2024-07-28T02:40:24.975+0000] {processor.py:153} INFO - Started process (PID=2280) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:40:24.976+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:40:24.977+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:24.977+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:40:24.986+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:40:24.989+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:40:25.002+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:25.002+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:40:25.015+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:25.015+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:40:25.026+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.052 seconds
+[2024-07-28T02:40:30.997+0000] {processor.py:153} INFO - Started process (PID=2322) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:40:30.997+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:40:30.998+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:30.998+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:40:31.005+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:40:31.009+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:40:31.022+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:31.022+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:40:31.034+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:31.034+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:40:31.044+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.050 seconds
+[2024-07-28T02:40:37.135+0000] {processor.py:153} INFO - Started process (PID=2347) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:40:37.136+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:40:37.137+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:37.137+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:40:37.144+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:40:37.148+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:40:37.165+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:37.165+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:40:37.179+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:37.179+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:40:37.189+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.056 seconds
+[2024-07-28T02:40:43.161+0000] {processor.py:153} INFO - Started process (PID=2386) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:40:43.162+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:40:43.162+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:43.162+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:40:43.170+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:40:43.174+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:40:43.187+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:43.187+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:40:43.201+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:43.201+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:40:43.216+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.057 seconds
+[2024-07-28T02:40:49.253+0000] {processor.py:153} INFO - Started process (PID=2411) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:40:49.254+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:40:49.255+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:49.255+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:40:49.262+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:40:49.266+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:40:49.280+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:49.280+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:40:49.293+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:49.293+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:40:49.301+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.050 seconds
+[2024-07-28T02:40:55.319+0000] {processor.py:153} INFO - Started process (PID=2452) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:40:55.319+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:40:55.320+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:55.320+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:40:55.329+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:40:55.336+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:40:55.350+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:55.350+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:40:55.365+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:40:55.365+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:40:55.376+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.059 seconds
+[2024-07-28T02:41:01.379+0000] {processor.py:153} INFO - Started process (PID=2486) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:41:01.383+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:41:01.385+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:01.385+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:41:01.394+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:41:01.397+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:41:01.411+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:01.411+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:41:01.423+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:01.423+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:41:01.432+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.055 seconds
+[2024-07-28T02:41:06.605+0000] {processor.py:153} INFO - Started process (PID=2517) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:41:06.605+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:41:06.606+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:06.606+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:41:06.613+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:41:06.616+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:41:06.635+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:06.635+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:41:06.647+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:06.647+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:41:06.659+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.057 seconds
+[2024-07-28T02:41:11.795+0000] {processor.py:153} INFO - Started process (PID=2542) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:41:11.796+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:41:11.796+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:11.796+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:41:11.803+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:41:11.806+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:41:11.819+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:11.819+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:41:11.830+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:11.830+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:41:11.840+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.047 seconds
+[2024-07-28T02:41:17.876+0000] {processor.py:153} INFO - Started process (PID=2585) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:41:17.876+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:41:17.877+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:17.876+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:41:17.883+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:41:17.888+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:41:17.901+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:17.901+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:41:17.916+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:17.915+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:41:17.928+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.054 seconds
+[2024-07-28T02:41:23.879+0000] {processor.py:153} INFO - Started process (PID=2618) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:41:23.879+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:41:23.880+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:23.880+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:41:23.889+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:41:23.894+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:41:23.911+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:23.911+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:41:23.923+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:23.923+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:41:23.933+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.056 seconds
+[2024-07-28T02:41:30.013+0000] {processor.py:153} INFO - Started process (PID=2650) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:41:30.014+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:41:30.014+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:30.014+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:41:30.026+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:41:30.033+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:41:30.052+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:30.052+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:41:30.069+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:30.069+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:41:30.087+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.076 seconds
+[2024-07-28T02:41:36.139+0000] {processor.py:153} INFO - Started process (PID=2691) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:41:36.140+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:41:36.140+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:36.140+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:41:36.151+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:41:36.155+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:41:36.168+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:36.168+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:41:36.181+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:36.181+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:41:36.191+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.054 seconds
+[2024-07-28T02:41:42.208+0000] {processor.py:153} INFO - Started process (PID=2716) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:41:42.209+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:41:42.209+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:42.209+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:41:42.217+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:41:42.220+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:41:42.233+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:42.233+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:41:42.246+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:42.246+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:41:42.254+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.047 seconds
+[2024-07-28T02:41:48.196+0000] {processor.py:153} INFO - Started process (PID=2757) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:41:48.196+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:41:48.197+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:48.197+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:41:48.207+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:41:48.211+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:41:48.231+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:48.231+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:41:48.243+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:48.243+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:41:48.258+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.064 seconds
+[2024-07-28T02:41:54.284+0000] {processor.py:153} INFO - Started process (PID=2783) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:41:54.285+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:41:54.286+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:54.286+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:41:54.294+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:41:54.297+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:41:54.311+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:54.311+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:41:54.324+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:41:54.323+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:41:54.333+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.051 seconds
+[2024-07-28T02:42:00.267+0000] {processor.py:153} INFO - Started process (PID=2823) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:42:00.270+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:42:00.271+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:00.271+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:42:00.280+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:42:00.284+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:42:00.296+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:00.296+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:42:00.309+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:00.309+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:42:00.318+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.053 seconds
+[2024-07-28T02:42:06.345+0000] {processor.py:153} INFO - Started process (PID=2849) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:42:06.345+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:42:06.346+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:06.346+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:42:06.353+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:42:06.356+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:42:06.370+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:06.370+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:42:06.385+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:06.384+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:42:06.409+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.067 seconds
+[2024-07-28T02:42:12.427+0000] {processor.py:153} INFO - Started process (PID=2888) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:42:12.431+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:42:12.432+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:12.431+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:42:12.441+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:42:12.445+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:42:12.459+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:12.458+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:42:12.470+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:12.470+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:42:12.481+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.055 seconds
+[2024-07-28T02:42:18.484+0000] {processor.py:153} INFO - Started process (PID=2914) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:42:18.487+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:42:18.488+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:18.488+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:42:18.497+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:42:18.501+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:42:18.516+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:18.516+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:42:18.531+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:18.531+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:42:18.542+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.061 seconds
+[2024-07-28T02:42:24.448+0000] {processor.py:153} INFO - Started process (PID=2955) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:42:24.448+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:42:24.448+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:24.448+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:42:24.455+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:42:24.459+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:42:24.472+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:24.472+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:42:24.485+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:24.485+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:42:24.494+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.048 seconds
+[2024-07-28T02:42:30.428+0000] {processor.py:153} INFO - Started process (PID=2980) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:42:30.428+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:42:30.429+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:30.429+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:42:30.437+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:42:30.441+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:42:30.455+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:30.455+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:42:30.469+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:30.469+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:42:30.478+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.052 seconds
+[2024-07-28T02:42:36.441+0000] {processor.py:153} INFO - Started process (PID=3019) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:42:36.444+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:42:36.445+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:36.444+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:42:36.454+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:42:36.458+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:42:36.471+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:36.471+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:42:36.485+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:36.485+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:42:36.495+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.056 seconds
+[2024-07-28T02:42:42.431+0000] {processor.py:153} INFO - Started process (PID=3045) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:42:42.432+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:42:42.432+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:42.432+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:42:42.439+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:42:42.442+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:42:42.456+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:42.456+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:42:42.469+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:42.469+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:42:42.478+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.049 seconds
+[2024-07-28T02:42:48.506+0000] {processor.py:153} INFO - Started process (PID=3086) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:42:48.507+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:42:48.507+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:48.507+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:42:48.516+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:42:48.519+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:42:48.532+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:48.532+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:42:48.544+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:48.544+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:42:48.554+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.050 seconds
+[2024-07-28T02:42:54.631+0000] {processor.py:153} INFO - Started process (PID=3127) to work on /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:42:54.633+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exemplo_branch.py for tasks to queue
+[2024-07-28T02:42:54.633+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:54.633+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:42:54.643+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py:394 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+[2024-07-28T02:42:54.649+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exemplo_branch']) retrieved from /opt/airflow/dags/exemplo_branch.py
+[2024-07-28T02:42:54.664+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:54.664+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-28T02:42:54.679+0000] {logging_mixin.py:137} INFO - [2024-07-28T02:42:54.679+0000] {dag.py:3441} INFO - Setting next_dagrun for exemplo_branch to None, run_after=None
+[2024-07-28T02:42:54.692+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exemplo_branch.py took 0.063 seconds

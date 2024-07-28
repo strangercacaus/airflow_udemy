@@ -1,0 +1,27 @@
+[2024-07-25T02:16:13.335+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: exemplo_triggerrule_task.tsk1 manual__2024-07-25T02:16:10.980996+00:00 [queued]>
+[2024-07-25T02:16:13.352+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: exemplo_triggerrule_task.tsk1 manual__2024-07-25T02:16:10.980996+00:00 [queued]>
+[2024-07-25T02:16:13.352+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-25T02:16:13.353+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 1
+[2024-07-25T02:16:13.354+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-25T02:16:13.370+0000] {taskinstance.py:1300} INFO - Executing <Task(BashOperator): tsk1> on 2024-07-25 02:16:10.980996+00:00
+[2024-07-25T02:16:13.373+0000] {standard_task_runner.py:55} INFO - Started process 31126 to run task
+[2024-07-25T02:16:13.377+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'exemplo_triggerrule_task', 'tsk1', 'manual__2024-07-25T02:16:10.980996+00:00', '--job-id', '1371', '--raw', '--subdir', 'DAGS_FOLDER/exemplo_triggerrule_task.py', '--cfg-path', '/tmp/tmp2xckeet1']
+[2024-07-25T02:16:13.378+0000] {standard_task_runner.py:83} INFO - Job 1371: Subtask tsk1
+[2024-07-25T02:16:13.454+0000] {task_command.py:388} INFO - Running <TaskInstance: exemplo_triggerrule_task.tsk1 manual__2024-07-25T02:16:10.980996+00:00 [running]> on host 448a9c84d52e
+[2024-07-25T02:16:13.516+0000] {taskinstance.py:1509} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=exemplo_triggerrule_task
+AIRFLOW_CTX_TASK_ID=tsk1
+AIRFLOW_CTX_EXECUTION_DATE=2024-07-25T02:16:10.980996+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2024-07-25T02:16:10.980996+00:00
+[2024-07-25T02:16:13.518+0000] {subprocess.py:63} INFO - Tmp dir root location: 
+ /tmp
+[2024-07-25T02:16:13.519+0000] {subprocess.py:75} INFO - Running command: ['/bin/bash', '-c', 'sleep 5']
+[2024-07-25T02:16:13.547+0000] {subprocess.py:86} INFO - Output:
+[2024-07-25T02:16:18.567+0000] {subprocess.py:97} INFO - Command exited with return code 0
+[2024-07-25T02:16:18.733+0000] {taskinstance.py:1323} INFO - Marking task as SUCCESS. dag_id=exemplo_triggerrule_task, task_id=tsk1, execution_date=20240725T021610, start_date=20240725T021613, end_date=20240725T021618
+[2024-07-25T02:16:18.861+0000] {local_task_job.py:208} INFO - Task exited with return code 0
+[2024-07-25T02:16:18.913+0000] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check

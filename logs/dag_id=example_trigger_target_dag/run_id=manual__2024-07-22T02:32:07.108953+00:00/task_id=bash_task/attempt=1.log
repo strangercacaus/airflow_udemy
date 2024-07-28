@@ -1,0 +1,28 @@
+[2024-07-22T02:32:08.292+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: example_trigger_target_dag.bash_task manual__2024-07-22T02:32:07.108953+00:00 [queued]>
+[2024-07-22T02:32:08.307+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: example_trigger_target_dag.bash_task manual__2024-07-22T02:32:07.108953+00:00 [queued]>
+[2024-07-22T02:32:08.310+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-22T02:32:08.312+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 1
+[2024-07-22T02:32:08.314+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-22T02:32:08.350+0000] {taskinstance.py:1300} INFO - Executing <Task(BashOperator): bash_task> on 2024-07-22 02:32:07.108953+00:00
+[2024-07-22T02:32:08.372+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'example_trigger_target_dag', 'bash_task', 'manual__2024-07-22T02:32:07.108953+00:00', '--job-id', '350', '--raw', '--subdir', '/home/***/.local/lib/python3.7/site-packages/***/example_dags/example_trigger_target_dag.py', '--cfg-path', '/tmp/tmpzr44v6nq']
+[2024-07-22T02:32:08.369+0000] {standard_task_runner.py:55} INFO - Started process 1247 to run task
+[2024-07-22T02:32:08.373+0000] {standard_task_runner.py:83} INFO - Job 350: Subtask bash_task
+[2024-07-22T02:32:08.479+0000] {task_command.py:388} INFO - Running <TaskInstance: example_trigger_target_dag.bash_task manual__2024-07-22T02:32:07.108953+00:00 [running]> on host 06eaaebc2caa
+[2024-07-22T02:32:08.600+0000] {taskinstance.py:1509} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=example_trigger_target_dag
+AIRFLOW_CTX_TASK_ID=bash_task
+AIRFLOW_CTX_EXECUTION_DATE=2024-07-22T02:32:07.108953+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2024-07-22T02:32:07.108953+00:00
+[2024-07-22T02:32:08.608+0000] {subprocess.py:63} INFO - Tmp dir root location: 
+ /tmp
+[2024-07-22T02:32:08.609+0000] {subprocess.py:75} INFO - Running command: ['/bin/bash', '-c', 'echo "Here is the message: $message"']
+[2024-07-22T02:32:08.622+0000] {subprocess.py:86} INFO - Output:
+[2024-07-22T02:32:08.627+0000] {subprocess.py:93} INFO - Here is the message: Hello World
+[2024-07-22T02:32:08.633+0000] {subprocess.py:97} INFO - Command exited with return code 0
+[2024-07-22T02:32:08.677+0000] {taskinstance.py:1323} INFO - Marking task as SUCCESS. dag_id=example_trigger_target_dag, task_id=bash_task, execution_date=20240722T023207, start_date=20240722T023208, end_date=20240722T023208
+[2024-07-22T02:32:08.777+0000] {local_task_job.py:208} INFO - Task exited with return code 0
+[2024-07-22T02:32:08.830+0000] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check

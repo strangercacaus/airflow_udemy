@@ -1,0 +1,14 @@
+[2024-07-25T02:16:20.676+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: exemplo_setstream.tsk3 manual__2024-07-25T02:16:02.788281+00:00 [queued]>
+[2024-07-25T02:16:20.711+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: exemplo_setstream.tsk3 manual__2024-07-25T02:16:02.788281+00:00 [queued]>
+[2024-07-25T02:16:20.718+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-25T02:16:20.719+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 1
+[2024-07-25T02:16:20.725+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-25T02:16:20.764+0000] {taskinstance.py:1300} INFO - Executing <Task(BashOperator): tsk3> on 2024-07-25 02:16:02.788281+00:00
+[2024-07-25T02:16:20.769+0000] {standard_task_runner.py:55} INFO - Started process 31175 to run task
+[2024-07-25T02:16:20.775+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'exemplo_setstream', 'tsk3', 'manual__2024-07-25T02:16:02.788281+00:00', '--job-id', '1382', '--raw', '--subdir', 'DAGS_FOLDER/exemplo_setstream.py', '--cfg-path', '/tmp/tmpn4znj5p5']
+[2024-07-25T02:16:20.780+0000] {standard_task_runner.py:83} INFO - Job 1382: Subtask tsk3
+[2024-07-25T02:16:21.056+0000] {standard_task_runner.py:105} ERROR - Failed to execute job 1382 for task tsk3 ([Errno 2] No such file or directory: '/opt/airflow/logs/dag_id=exemplo_setstream/run_id=manual__2024-07-25T02:16:02.788281+00:00/task_id=tsk3/attempt=1.log'; 31175)
+[2024-07-25T02:16:21.064+0000] {local_task_job.py:208} INFO - Task exited with return code 1
+[2024-07-25T02:16:21.114+0000] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check

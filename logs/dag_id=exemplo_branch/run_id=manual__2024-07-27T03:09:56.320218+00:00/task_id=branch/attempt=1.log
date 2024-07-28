@@ -1,0 +1,14 @@
+[2024-07-27T03:09:58.063+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: exemplo_branch.branch manual__2024-07-27T03:09:56.320218+00:00 [queued]>
+[2024-07-27T03:09:58.069+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: exemplo_branch.branch manual__2024-07-27T03:09:56.320218+00:00 [queued]>
+[2024-07-27T03:09:58.070+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-27T03:09:58.070+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 1
+[2024-07-27T03:09:58.070+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-27T03:09:58.080+0000] {taskinstance.py:1300} INFO - Executing <Task(BranchPythonOperator): branch> on 2024-07-27 03:09:56.320218+00:00
+[2024-07-27T03:09:58.088+0000] {standard_task_runner.py:55} INFO - Started process 80161 to run task
+[2024-07-27T03:09:58.092+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'exemplo_branch', 'branch', 'manual__2024-07-27T03:09:56.320218+00:00', '--job-id', '1766', '--raw', '--subdir', 'DAGS_FOLDER/__pycache__/exemplo_branch.py', '--cfg-path', '/tmp/tmpm4vur1_6']
+[2024-07-27T03:09:58.093+0000] {standard_task_runner.py:83} INFO - Job 1766: Subtask branch
+[2024-07-27T03:09:58.134+0000] {standard_task_runner.py:105} ERROR - Failed to execute job 1766 for task branch ([Errno 2] No such file or directory: '/opt/airflow/logs/dag_id=exemplo_branch/run_id=manual__2024-07-27T03:09:56.320218+00:00/task_id=branch/attempt=1.log'; 80161)
+[2024-07-27T03:09:58.151+0000] {local_task_job.py:208} INFO - Task exited with return code 1
+[2024-07-27T03:09:58.165+0000] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check

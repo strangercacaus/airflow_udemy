@@ -1,0 +1,30 @@
+[2024-07-25T00:06:47.238+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: examplo_dag_run_dag.tsk2 manual__2024-07-25T00:06:40.632030+00:00 [queued]>
+[2024-07-25T00:06:47.244+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: examplo_dag_run_dag.tsk2 manual__2024-07-25T00:06:40.632030+00:00 [queued]>
+[2024-07-25T00:06:47.244+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-25T00:06:47.244+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 1
+[2024-07-25T00:06:47.244+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-25T00:06:47.254+0000] {taskinstance.py:1300} INFO - Executing <Task(TriggerDagRunOperator): tsk2> on 2024-07-25 00:06:40.632030+00:00
+[2024-07-25T00:06:47.258+0000] {standard_task_runner.py:55} INFO - Started process 26903 to run task
+[2024-07-25T00:06:47.261+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'examplo_dag_run_dag', 'tsk2', 'manual__2024-07-25T00:06:40.632030+00:00', '--job-id', '1321', '--raw', '--subdir', 'DAGS_FOLDER/examplo_dag_run_dag.py', '--cfg-path', '/tmp/tmp2ta9d0hl']
+[2024-07-25T00:06:47.261+0000] {standard_task_runner.py:83} INFO - Job 1321: Subtask tsk2
+[2024-07-25T00:06:47.296+0000] {task_command.py:388} INFO - Running <TaskInstance: examplo_dag_run_dag.tsk2 manual__2024-07-25T00:06:40.632030+00:00 [running]> on host 448a9c84d52e
+[2024-07-25T00:06:47.334+0000] {taskinstance.py:1509} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=examplo_dag_run_dag
+AIRFLOW_CTX_TASK_ID=tsk2
+AIRFLOW_CTX_EXECUTION_DATE=2024-07-25T00:06:40.632030+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2024-07-25T00:06:40.632030+00:00
+[2024-07-25T00:06:47.346+0000] {taskinstance.py:1768} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/trigger_dagrun.py", line 144, in execute
+    replace_microseconds=False,
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/api/common/trigger_dag.py", line 119, in trigger_dag
+    raise DagNotFound(f"Dag id {dag_id} not found in DagModel")
+airflow.exceptions.DagNotFound: Dag id dagrundag2 not found in DagModel
+[2024-07-25T00:06:47.348+0000] {taskinstance.py:1323} INFO - Marking task as FAILED. dag_id=examplo_dag_run_dag, task_id=tsk2, execution_date=20240725T000640, start_date=20240725T000647, end_date=20240725T000647
+[2024-07-25T00:06:47.355+0000] {standard_task_runner.py:105} ERROR - Failed to execute job 1321 for task tsk2 (Dag id dagrundag2 not found in DagModel; 26903)
+[2024-07-25T00:06:47.359+0000] {local_task_job.py:208} INFO - Task exited with return code 1
+[2024-07-25T00:06:47.370+0000] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check

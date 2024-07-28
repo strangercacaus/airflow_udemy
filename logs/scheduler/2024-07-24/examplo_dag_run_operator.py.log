@@ -1,0 +1,402 @@
+[2024-07-24T03:04:22.984+0000] {processor.py:153} INFO - Started process (PID=52288) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:04:22.985+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:04:22.986+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:22.986+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:04:23.032+0000] {processor.py:753} INFO - DAG(s) dict_keys(['examplo_dag_run_operator']) retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:04:23.310+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:23.310+0000] {manager.py:504} INFO - Created Permission View: can read on DAG:examplo_dag_run_operator
+[2024-07-24T03:04:23.318+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:23.317+0000] {manager.py:504} INFO - Created Permission View: can edit on DAG:examplo_dag_run_operator
+[2024-07-24T03:04:23.322+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:23.322+0000] {manager.py:504} INFO - Created Permission View: can delete on DAG:examplo_dag_run_operator
+[2024-07-24T03:04:23.323+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:23.323+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-24T03:04:23.336+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:23.335+0000] {dag.py:2711} INFO - Creating ORM DAG for examplo_dag_run_operator
+[2024-07-24T03:04:23.345+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:23.345+0000] {dag.py:3441} INFO - Setting next_dagrun for examplo_dag_run_operator to None, run_after=None
+[2024-07-24T03:04:23.360+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.380 seconds
+[2024-07-24T03:04:28.769+0000] {processor.py:153} INFO - Started process (PID=52299) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:04:28.778+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:04:28.779+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:28.779+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:04:28.837+0000] {processor.py:753} INFO - DAG(s) dict_keys(['examplo_dag_run_operator']) retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:04:28.861+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:28.861+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-24T03:04:28.891+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:28.891+0000] {dag.py:3441} INFO - Setting next_dagrun for examplo_dag_run_operator to None, run_after=None
+[2024-07-24T03:04:28.913+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.163 seconds
+[2024-07-24T03:04:29.978+0000] {processor.py:153} INFO - Started process (PID=52302) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:04:29.980+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:04:29.981+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:29.981+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:04:30.028+0000] {processor.py:753} INFO - DAG(s) dict_keys(['examplo_dag_run_operator']) retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:04:30.053+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:30.053+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-24T03:04:30.082+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:30.082+0000] {dag.py:3441} INFO - Setting next_dagrun for examplo_dag_run_operator to None, run_after=None
+[2024-07-24T03:04:30.176+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.204 seconds
+[2024-07-24T03:04:32.062+0000] {processor.py:153} INFO - Started process (PID=52303) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:04:32.062+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:04:32.063+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:32.063+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:04:32.087+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:32.083+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/examplo_dag_run_operator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/examplo_dag_run_operator.py", line 24, in <module>
+    task3 >> task4
+NameError: name 'task3' is not defined
+[2024-07-24T03:04:32.089+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:04:32.108+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.053 seconds
+[2024-07-24T03:04:36.650+0000] {processor.py:153} INFO - Started process (PID=52330) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:04:36.651+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:04:36.652+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:36.652+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:04:36.658+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:36.657+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/examplo_dag_run_operator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/examplo_dag_run_operator.py", line 17
+    tsk_group = TaskGroup("tsk_group", dag=dag
+                                             ^
+SyntaxError: unexpected EOF while parsing
+[2024-07-24T03:04:36.658+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:04:36.698+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.052 seconds
+[2024-07-24T03:04:38.018+0000] {processor.py:153} INFO - Started process (PID=52336) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:04:38.019+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:04:38.019+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:38.019+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:04:38.047+0000] {processor.py:753} INFO - DAG(s) dict_keys(['examplo_dag_run_operator']) retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:04:38.066+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:38.066+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-24T03:04:38.102+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:38.102+0000] {dag.py:3441} INFO - Setting next_dagrun for examplo_dag_run_operator to None, run_after=None
+[2024-07-24T03:04:38.117+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.101 seconds
+[2024-07-24T03:04:43.196+0000] {processor.py:153} INFO - Started process (PID=52342) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:04:43.197+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:04:43.197+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:43.197+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:04:43.212+0000] {processor.py:753} INFO - DAG(s) dict_keys(['examplo_dag_run_operator']) retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:04:43.223+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:43.223+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-24T03:04:43.240+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:43.240+0000] {dag.py:3441} INFO - Setting next_dagrun for examplo_dag_run_operator to None, run_after=None
+[2024-07-24T03:04:43.260+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.067 seconds
+[2024-07-24T03:04:48.633+0000] {processor.py:153} INFO - Started process (PID=52369) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:04:48.635+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:04:48.635+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:48.635+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:04:48.659+0000] {processor.py:753} INFO - DAG(s) dict_keys(['examplo_dag_run_operator']) retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:04:48.676+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:48.676+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-24T03:04:48.701+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:48.701+0000] {dag.py:3441} INFO - Setting next_dagrun for examplo_dag_run_operator to None, run_after=None
+[2024-07-24T03:04:48.720+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.091 seconds
+[2024-07-24T03:04:54.128+0000] {processor.py:153} INFO - Started process (PID=52380) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:04:54.128+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:04:54.129+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:54.129+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:04:54.144+0000] {processor.py:753} INFO - DAG(s) dict_keys(['examplo_dag_run_operator']) retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:04:54.192+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:54.192+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-24T03:04:54.207+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:54.207+0000] {dag.py:3441} INFO - Setting next_dagrun for examplo_dag_run_operator to None, run_after=None
+[2024-07-24T03:04:54.223+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.098 seconds
+[2024-07-24T03:04:59.759+0000] {processor.py:153} INFO - Started process (PID=52407) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:04:59.762+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:04:59.765+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:59.765+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:04:59.816+0000] {processor.py:753} INFO - DAG(s) dict_keys(['examplo_dag_run_operator']) retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:04:59.842+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:59.842+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-24T03:04:59.904+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:04:59.904+0000] {dag.py:3441} INFO - Setting next_dagrun for examplo_dag_run_operator to None, run_after=None
+[2024-07-24T03:04:59.939+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.193 seconds
+[2024-07-24T03:05:05.425+0000] {processor.py:153} INFO - Started process (PID=52418) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:05:05.427+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:05:05.428+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:05:05.428+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:05:05.488+0000] {processor.py:753} INFO - DAG(s) dict_keys(['examplo_dag_run_operator']) retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:05:05.517+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:05:05.517+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-24T03:05:05.551+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:05:05.551+0000] {dag.py:3441} INFO - Setting next_dagrun for examplo_dag_run_operator to None, run_after=None
+[2024-07-24T03:05:05.582+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.164 seconds
+[2024-07-24T03:05:11.039+0000] {processor.py:153} INFO - Started process (PID=52445) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:05:11.041+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:05:11.044+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:05:11.044+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:05:11.076+0000] {processor.py:753} INFO - DAG(s) dict_keys(['examplo_dag_run_operator']) retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:05:11.104+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:05:11.104+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-24T03:05:11.146+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:05:11.146+0000] {dag.py:3441} INFO - Setting next_dagrun for examplo_dag_run_operator to None, run_after=None
+[2024-07-24T03:05:11.173+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.139 seconds
+[2024-07-24T03:05:16.701+0000] {processor.py:153} INFO - Started process (PID=52456) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:05:16.702+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:05:16.704+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:05:16.704+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:05:16.768+0000] {processor.py:753} INFO - DAG(s) dict_keys(['examplo_dag_run_operator']) retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:05:16.794+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:05:16.794+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-24T03:05:16.920+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:05:16.913+0000] {dag.py:3441} INFO - Setting next_dagrun for examplo_dag_run_operator to None, run_after=None
+[2024-07-24T03:05:16.956+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.262 seconds
+[2024-07-24T03:05:22.519+0000] {processor.py:153} INFO - Started process (PID=52476) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:05:22.521+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:05:22.522+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:05:22.521+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:05:22.556+0000] {processor.py:753} INFO - DAG(s) dict_keys(['examplo_dag_run_operator']) retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:05:22.620+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:05:22.619+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-24T03:05:22.672+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:05:22.672+0000] {dag.py:3441} INFO - Setting next_dagrun for examplo_dag_run_operator to None, run_after=None
+[2024-07-24T03:05:22.702+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.208 seconds
+[2024-07-24T03:05:27.911+0000] {processor.py:153} INFO - Started process (PID=52496) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:05:27.915+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:05:27.921+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:05:27.918+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:05:27.988+0000] {processor.py:753} INFO - DAG(s) dict_keys(['examplo_dag_run_operator']) retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:05:28.021+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:05:28.021+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-24T03:05:28.059+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:05:28.058+0000] {dag.py:3441} INFO - Setting next_dagrun for examplo_dag_run_operator to None, run_after=None
+[2024-07-24T03:05:28.092+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.188 seconds
+[2024-07-24T03:05:33.895+0000] {processor.py:153} INFO - Started process (PID=52509) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:05:33.895+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:05:33.896+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:05:33.896+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:05:33.908+0000] {processor.py:753} INFO - DAG(s) dict_keys(['examplo_dag_run_operator']) retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:05:33.929+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:05:33.929+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-24T03:05:33.945+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:05:33.945+0000] {dag.py:3441} INFO - Setting next_dagrun for examplo_dag_run_operator to None, run_after=None
+[2024-07-24T03:05:33.962+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.070 seconds
+[2024-07-24T03:05:39.671+0000] {processor.py:153} INFO - Started process (PID=52537) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:05:39.675+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:05:39.678+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:05:39.677+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:05:39.721+0000] {processor.py:753} INFO - DAG(s) dict_keys(['examplo_dag_run_operator']) retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:05:39.760+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:05:39.760+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-24T03:05:39.785+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:05:39.785+0000] {dag.py:3441} INFO - Setting next_dagrun for examplo_dag_run_operator to None, run_after=None
+[2024-07-24T03:05:39.802+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.141 seconds
+[2024-07-24T03:05:45.388+0000] {processor.py:153} INFO - Started process (PID=52549) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:05:45.396+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:05:45.398+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:05:45.398+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:05:45.503+0000] {processor.py:753} INFO - DAG(s) dict_keys(['examplo_dag_run_operator']) retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:05:45.536+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:05:45.536+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-24T03:05:45.565+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:05:45.565+0000] {dag.py:3441} INFO - Setting next_dagrun for examplo_dag_run_operator to None, run_after=None
+[2024-07-24T03:05:45.602+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.221 seconds
+[2024-07-24T03:05:51.175+0000] {processor.py:153} INFO - Started process (PID=52578) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:05:51.176+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:05:51.177+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:05:51.177+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:05:51.214+0000] {processor.py:753} INFO - DAG(s) dict_keys(['examplo_dag_run_operator']) retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:05:51.281+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:05:51.280+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-24T03:05:51.325+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:05:51.324+0000] {dag.py:3441} INFO - Setting next_dagrun for examplo_dag_run_operator to None, run_after=None
+[2024-07-24T03:05:51.355+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.185 seconds
+[2024-07-24T03:05:57.216+0000] {processor.py:153} INFO - Started process (PID=52591) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:05:57.223+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:05:57.228+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:05:57.227+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:05:57.292+0000] {processor.py:753} INFO - DAG(s) dict_keys(['examplo_dag_run_operator']) retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:05:57.354+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:05:57.354+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-24T03:05:57.388+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:05:57.388+0000] {dag.py:3441} INFO - Setting next_dagrun for examplo_dag_run_operator to None, run_after=None
+[2024-07-24T03:05:57.414+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.208 seconds
+[2024-07-24T03:06:03.090+0000] {processor.py:153} INFO - Started process (PID=52619) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:03.091+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:06:03.092+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:06:03.092+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:03.111+0000] {processor.py:753} INFO - DAG(s) dict_keys(['examplo_dag_run_operator']) retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:03.139+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:06:03.139+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-24T03:06:03.160+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:06:03.160+0000] {dag.py:3441} INFO - Setting next_dagrun for examplo_dag_run_operator to None, run_after=None
+[2024-07-24T03:06:03.177+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.091 seconds
+[2024-07-24T03:06:08.823+0000] {processor.py:153} INFO - Started process (PID=52631) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:08.827+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:06:08.828+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:06:08.828+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:08.848+0000] {processor.py:753} INFO - DAG(s) dict_keys(['examplo_dag_run_operator']) retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:08.893+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:06:08.893+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-24T03:06:08.913+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:06:08.913+0000] {dag.py:3441} INFO - Setting next_dagrun for examplo_dag_run_operator to None, run_after=None
+[2024-07-24T03:06:08.931+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.111 seconds
+[2024-07-24T03:06:14.396+0000] {processor.py:153} INFO - Started process (PID=52659) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:14.398+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:06:14.401+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:06:14.401+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:14.435+0000] {processor.py:753} INFO - DAG(s) dict_keys(['examplo_dag_run_operator']) retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:14.476+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:06:14.475+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-24T03:06:14.507+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:06:14.507+0000] {dag.py:3441} INFO - Setting next_dagrun for examplo_dag_run_operator to None, run_after=None
+[2024-07-24T03:06:14.539+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.158 seconds
+[2024-07-24T03:06:20.142+0000] {processor.py:153} INFO - Started process (PID=52671) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:20.143+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:06:20.144+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:06:20.144+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:20.173+0000] {processor.py:753} INFO - DAG(s) dict_keys(['examplo_dag_run_operator']) retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:20.202+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:06:20.202+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-24T03:06:20.222+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:06:20.222+0000] {dag.py:3441} INFO - Setting next_dagrun for examplo_dag_run_operator to None, run_after=None
+[2024-07-24T03:06:20.242+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.104 seconds
+[2024-07-24T03:06:25.848+0000] {processor.py:153} INFO - Started process (PID=52692) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:25.851+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:06:25.853+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:06:25.852+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:25.882+0000] {processor.py:753} INFO - DAG(s) dict_keys(['examplo_dag_run_operator']) retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:25.941+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:06:25.941+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-24T03:06:25.987+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:06:25.987+0000] {dag.py:3441} INFO - Setting next_dagrun for examplo_dag_run_operator to None, run_after=None
+[2024-07-24T03:06:26.012+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.170 seconds
+[2024-07-24T03:06:30.242+0000] {processor.py:153} INFO - Started process (PID=52711) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:30.247+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:06:30.252+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:06:30.252+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:30.301+0000] {processor.py:753} INFO - DAG(s) dict_keys(['examplo_dag_run_operator']) retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:30.376+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:06:30.375+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-24T03:06:30.395+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:06:30.394+0000] {dag.py:3441} INFO - Setting next_dagrun for examplo_dag_run_operator to None, run_after=None
+[2024-07-24T03:06:30.411+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.175 seconds
+[2024-07-24T03:06:35.859+0000] {processor.py:153} INFO - Started process (PID=52723) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:35.859+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:06:35.860+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:06:35.860+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:35.877+0000] {processor.py:753} INFO - DAG(s) dict_keys(['examplo_dag_run_operator']) retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:35.889+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:06:35.889+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-07-24T03:06:35.908+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:06:35.908+0000] {dag.py:3441} INFO - Setting next_dagrun for examplo_dag_run_operator to None, run_after=None
+[2024-07-24T03:06:35.921+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.065 seconds
+[2024-07-24T03:06:40.677+0000] {processor.py:153} INFO - Started process (PID=52751) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:40.678+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:06:40.680+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:06:40.679+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:40.714+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:06:40.711+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/examplo_dag_run_operator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/examplo_dag_run_operator.py", line 16, in <module>
+    task2 = TriggerDagRunOperator(task_id="tsk2", bash_command="sleep 5", dag=dag)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 377, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'trigger_dag_id'
+[2024-07-24T03:06:40.714+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:40.759+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.088 seconds
+[2024-07-24T03:06:46.281+0000] {processor.py:153} INFO - Started process (PID=52763) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:46.282+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:06:46.282+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:06:46.282+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:46.293+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:06:46.291+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/examplo_dag_run_operator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/examplo_dag_run_operator.py", line 16, in <module>
+    task2 = TriggerDagRunOperator(task_id="tsk2", bash_command="sleep 5", dag=dag)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 377, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'trigger_dag_id'
+[2024-07-24T03:06:46.294+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:46.306+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.028 seconds
+[2024-07-24T03:06:51.838+0000] {processor.py:153} INFO - Started process (PID=52791) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:51.840+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:06:51.841+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:06:51.841+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:51.866+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:06:51.863+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/examplo_dag_run_operator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/examplo_dag_run_operator.py", line 16, in <module>
+    task2 = TriggerDagRunOperator(task_id="tsk2", bash_command="sleep 5", dag=dag)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 377, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'trigger_dag_id'
+[2024-07-24T03:06:51.867+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:51.912+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.086 seconds
+[2024-07-24T03:06:57.845+0000] {processor.py:153} INFO - Started process (PID=52803) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:57.847+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:06:57.848+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:06:57.848+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:57.864+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:06:57.858+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/examplo_dag_run_operator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/examplo_dag_run_operator.py", line 16, in <module>
+    task2 = TriggerDagRunOperator(task_id="tsk2", bash_command="sleep 5", dag=dag)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 377, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'trigger_dag_id'
+[2024-07-24T03:06:57.866+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:06:57.888+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.046 seconds
+[2024-07-24T03:07:03.392+0000] {processor.py:153} INFO - Started process (PID=52824) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:07:03.393+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:07:03.394+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:07:03.394+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:07:03.409+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:07:03.407+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/examplo_dag_run_operator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/examplo_dag_run_operator.py", line 16, in <module>
+    task2 = TriggerDagRunOperator(task_id="tsk2", bash_command="sleep 5", dag=dag)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 377, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'trigger_dag_id'
+[2024-07-24T03:07:03.410+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:07:03.429+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.041 seconds
+[2024-07-24T03:07:09.005+0000] {processor.py:153} INFO - Started process (PID=52843) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:07:09.006+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:07:09.007+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:07:09.007+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:07:09.016+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:07:09.014+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/examplo_dag_run_operator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/examplo_dag_run_operator.py", line 16, in <module>
+    task2 = TriggerDagRunOperator(task_id="tsk2", bash_command="sleep 5", dag=dag)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 377, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'trigger_dag_id'
+[2024-07-24T03:07:09.017+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:07:09.030+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.027 seconds
+[2024-07-24T03:07:14.449+0000] {processor.py:153} INFO - Started process (PID=52855) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:07:14.451+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:07:14.452+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:07:14.451+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:07:14.467+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:07:14.465+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/examplo_dag_run_operator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/examplo_dag_run_operator.py", line 16, in <module>
+    task2 = TriggerDagRunOperator(task_id="tsk2", bash_command="sleep 5", dag=dag)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 377, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'trigger_dag_id'
+[2024-07-24T03:07:14.468+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:07:14.496+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.050 seconds
+[2024-07-24T03:07:19.606+0000] {processor.py:153} INFO - Started process (PID=52883) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:07:19.607+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:07:19.607+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:07:19.607+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:07:19.617+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:07:19.615+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/examplo_dag_run_operator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/examplo_dag_run_operator.py", line 16, in <module>
+    task2 = TriggerDagRunOperator(task_id="tsk2", bash_command="sleep 5", dag=dag)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 377, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'trigger_dag_id'
+[2024-07-24T03:07:19.617+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:07:19.633+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.030 seconds
+[2024-07-24T03:07:24.803+0000] {processor.py:153} INFO - Started process (PID=52889) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:07:24.804+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:07:24.804+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:07:24.804+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:07:24.814+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:07:24.812+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/examplo_dag_run_operator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/examplo_dag_run_operator.py", line 16, in <module>
+    task2 = TriggerDagRunOperator(task_id="tsk2", bash_command="sleep 5", dag=dag)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 377, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'trigger_dag_id'
+[2024-07-24T03:07:24.814+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:07:24.831+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.030 seconds
+[2024-07-24T03:07:30.460+0000] {processor.py:153} INFO - Started process (PID=52917) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:07:30.461+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:07:30.462+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:07:30.461+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:07:30.493+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:07:30.475+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/examplo_dag_run_operator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/examplo_dag_run_operator.py", line 16, in <module>
+    task2 = TriggerDagRunOperator(task_id="tsk2", bash_command="sleep 5", dag=dag)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 377, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'trigger_dag_id'
+[2024-07-24T03:07:30.494+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:07:30.516+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.059 seconds
+[2024-07-24T03:07:36.025+0000] {processor.py:153} INFO - Started process (PID=52929) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:07:36.026+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:07:36.027+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:07:36.027+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:07:36.046+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:07:36.038+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/examplo_dag_run_operator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/examplo_dag_run_operator.py", line 16, in <module>
+    task2 = TriggerDagRunOperator(task_id="tsk2", bash_command="sleep 5", dag=dag)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 377, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'trigger_dag_id'
+[2024-07-24T03:07:36.047+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:07:36.067+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.044 seconds
+[2024-07-24T03:07:41.549+0000] {processor.py:153} INFO - Started process (PID=52957) to work on /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:07:41.551+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examplo_dag_run_operator.py for tasks to queue
+[2024-07-24T03:07:41.552+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:07:41.552+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:07:41.585+0000] {logging_mixin.py:137} INFO - [2024-07-24T03:07:41.578+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/examplo_dag_run_operator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/examplo_dag_run_operator.py", line 16, in <module>
+    task2 = TriggerDagRunOperator(task_id="tsk2", bash_command="sleep 5", dag=dag)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 377, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'trigger_dag_id'
+[2024-07-24T03:07:41.587+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/examplo_dag_run_operator.py
+[2024-07-24T03:07:41.631+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examplo_dag_run_operator.py took 0.092 seconds

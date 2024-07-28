@@ -1,0 +1,28 @@
+[2024-07-26T19:00:03.274+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: exemplo_email_operator.2-Bash scheduled__2024-07-26T18:00:00+00:00 [queued]>
+[2024-07-26T19:00:03.285+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: exemplo_email_operator.2-Bash scheduled__2024-07-26T18:00:00+00:00 [queued]>
+[2024-07-26T19:00:03.286+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-26T19:00:03.286+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 2
+[2024-07-26T19:00:03.287+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-07-26T19:00:03.299+0000] {taskinstance.py:1300} INFO - Executing <Task(BashOperator): 2-Bash> on 2024-07-26 18:00:00+00:00
+[2024-07-26T19:00:03.304+0000] {standard_task_runner.py:55} INFO - Started process 42824 to run task
+[2024-07-26T19:00:03.308+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'exemplo_email_operator', '2-Bash', 'scheduled__2024-07-26T18:00:00+00:00', '--job-id', '1658', '--raw', '--subdir', 'DAGS_FOLDER/exemplo_email_operator.py', '--cfg-path', '/tmp/tmpt54z59n1']
+[2024-07-26T19:00:03.308+0000] {standard_task_runner.py:83} INFO - Job 1658: Subtask 2-Bash
+[2024-07-26T19:00:03.379+0000] {task_command.py:388} INFO - Running <TaskInstance: exemplo_email_operator.2-Bash scheduled__2024-07-26T18:00:00+00:00 [running]> on host 029011c5aea1
+[2024-07-26T19:00:03.445+0000] {taskinstance.py:1509} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=caue.ausec@gmail.com
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=exemplo_email_operator
+AIRFLOW_CTX_TASK_ID=2-Bash
+AIRFLOW_CTX_EXECUTION_DATE=2024-07-26T18:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2024-07-26T18:00:00+00:00
+[2024-07-26T19:00:03.449+0000] {subprocess.py:63} INFO - Tmp dir root location: 
+ /tmp
+[2024-07-26T19:00:03.452+0000] {subprocess.py:75} INFO - Running command: ['/bin/bash', '-c', 'sleep 1']
+[2024-07-26T19:00:03.466+0000] {subprocess.py:86} INFO - Output:
+[2024-07-26T19:00:04.477+0000] {subprocess.py:97} INFO - Command exited with return code 0
+[2024-07-26T19:00:04.564+0000] {taskinstance.py:1323} INFO - Marking task as SUCCESS. dag_id=exemplo_email_operator, task_id=2-Bash, execution_date=20240726T180000, start_date=20240726T190003, end_date=20240726T190004
+[2024-07-26T19:00:04.626+0000] {local_task_job.py:208} INFO - Task exited with return code 0
+[2024-07-26T19:00:04.654+0000] {taskinstance.py:2578} INFO - 1 downstream tasks scheduled from follow-on schedule check
